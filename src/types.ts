@@ -40,4 +40,5 @@ export interface UserProgress {
     bookmarks: string[];
     testResults: TestResult[];
     darkMode: boolean;
+    userProvidedAnswers: Record<string, string[]>;
 }

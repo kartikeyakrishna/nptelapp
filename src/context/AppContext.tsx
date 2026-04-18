@@ -10,6 +10,7 @@ const defaultProgress: UserProgress = {
     bookmarks: [],
     testResults: [],
     darkMode: false,
+    userProvidedAnswers: {},
 };
 
 function loadProgress(): UserProgress {
@@ -38,6 +39,7 @@ type Action =
     | { type: 'ADD_TEST_RESULT'; result: TestResult }
     | { type: 'TOGGLE_DARK_MODE' }
     | { type: 'IMPORT_PROGRESS'; progress: UserProgress }
+    | { type: 'SAVE_USER_ANSWER'; questionId: string; answer: string[] }
     | { type: 'RESET_PROGRESS' };
 
 function reducer(state: UserProgress, action: Action): UserProgress {
@@ -65,6 +67,14 @@ function reducer(state: UserProgress, action: Action): UserProgress {
             return { ...state, darkMode: !state.darkMode };
         case 'IMPORT_PROGRESS':
             return { ...defaultProgress, ...action.progress };
+        case 'SAVE_USER_ANSWER':
+            return {
+                ...state,
+                userProvidedAnswers: {
+                    ...state.userProvidedAnswers,
+                    [action.questionId]: action.answer,
+                },
+            };
         case 'RESET_PROGRESS':
             return defaultProgress;
         default:
@@ -88,8 +98,16 @@ interface AppContextType {
 const AppContext = createContext<AppContextType | null>(null);
 
 export function AppProvider({ children }: { children: ReactNode }) {
-    const questions = questionsData as Question[];
+    const rawQuestions = questionsData as Question[];
     const [progress, dispatch] = useReducer(reducer, undefined, loadProgress);
+
+    // Merge user provided answers
+    const questions = rawQuestions.map((q) => {
+        if (progress.userProvidedAnswers && progress.userProvidedAnswers[q.id]) {
+            return { ...q, correctAnswer: progress.userProvidedAnswers[q.id], needsReview: false };
+        }
+        return q;
+    });
 
     useEffect(() => {
         saveProgress(progress);

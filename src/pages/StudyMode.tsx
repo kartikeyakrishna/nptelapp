@@ -61,6 +61,27 @@ export default function StudyMode() {
         setRevealed(true);
     };
 
+    const handleSaveAsCorrect = () => {
+        if (selectedAnswers.length === 0) return;
+        
+        dispatch({
+            type: 'SAVE_USER_ANSWER',
+            questionId: question.id,
+            answer: selectedAnswers,
+        });
+        
+        dispatch({
+            type: 'RECORD_ATTEMPT',
+            attempt: {
+                questionId: question.id,
+                selectedAnswers,
+                isCorrect: true,
+                timestamp: Date.now(),
+            },
+        });
+        setRevealed(true);
+    };
+
     const handleReveal = () => {
         setRevealed(true);
     };
@@ -143,9 +164,14 @@ export default function StudyMode() {
                 </button>
 
                 <div style={{ display: 'flex', gap: 8 }}>
-                    {!revealed && selectedAnswers.length > 0 && (
+                    {!revealed && hasCorrectAnswer && selectedAnswers.length > 0 && (
                         <button className="btn btn-primary" onClick={handleSubmit}>
                             Submit Answer
+                        </button>
+                    )}
+                    {!revealed && !hasCorrectAnswer && selectedAnswers.length > 0 && (
+                        <button className="btn btn-success" onClick={handleSaveAsCorrect}>
+                            Save as Correct Answer
                         </button>
                     )}
                     {!revealed && hasCorrectAnswer && (
@@ -153,9 +179,9 @@ export default function StudyMode() {
                             Reveal Answer
                         </button>
                     )}
-                    {!hasCorrectAnswer && !revealed && (
+                    {!hasCorrectAnswer && !revealed && selectedAnswers.length === 0 && (
                         <span style={{ fontSize: 13, color: 'var(--warning)', alignSelf: 'center' }}>
-                            ⚠️ No verified answer
+                            ⚠️ Select option(s) to save as correct
                         </span>
                     )}
                 </div>
