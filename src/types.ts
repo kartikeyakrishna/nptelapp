@@ -14,6 +14,7 @@ export interface Question {
     sourcePage: number;
     confidence: string;
     needsReview: boolean;
+    explanation?: string;
 }
 
 export interface QuestionAttempt {

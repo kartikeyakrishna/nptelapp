@@ -38,7 +38,7 @@ function Sidebar({ open, onClose }: { open: boolean; onClose: () => void }) {
       <aside className={`sidebar ${open ? 'open' : ''}`}>
         <div className="sidebar-header">
           <div className="sidebar-logo">NPTEL Study Hub</div>
-          <div className="sidebar-subtitle">Innovation in Marketing</div>
+          <div className="sidebar-subtitle">Introduction to Cognitive Psychology</div>
         </div>
 
         <nav className="sidebar-nav">

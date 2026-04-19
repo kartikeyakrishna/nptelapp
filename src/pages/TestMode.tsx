@@ -401,6 +401,11 @@ export default function TestMode() {
                                             </>
                                         )}
                                     </div>
+                                    {q.explanation && (
+                                        <div style={{ marginTop: 8, padding: 8, background: 'var(--bg-accent)', borderRadius: 'var(--radius-sm)', fontSize: 13, color: 'var(--text-secondary)', borderLeft: '3px solid var(--primary)' }}>
+                                            <strong>Explanation:</strong> {q.explanation}
+                                        </div>
+                                    )}
                                 </div>
                                 <span className={`badge ${skipped ? 'badge-warning' : isCorrect ? 'badge-success' : 'badge-danger'}`}>
                                     {skipped ? 'Skipped' : isCorrect ? '✓' : '✗'}

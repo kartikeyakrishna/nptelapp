@@ -197,10 +197,20 @@ export default function StudyMode() {
 
             {revealed && (
                 <div style={{ marginTop: 16, padding: 16, borderRadius: 'var(--radius-sm)', background: 'var(--bg-accent)', border: '1px solid var(--border)' }}>
-                    <strong>Correct Answer{question.correctAnswer.length > 1 ? 's' : ''}:</strong>{' '}
-                    {hasCorrectAnswer
-                        ? question.correctAnswer.join(', ')
-                        : 'Not verified — this question needs manual review'}
+                    <div style={{ marginBottom: question.explanation ? 12 : 0 }}>
+                        <strong>Correct Answer{question.correctAnswer.length > 1 ? 's' : ''}:</strong>{' '}
+                        {hasCorrectAnswer
+                            ? question.correctAnswer.join(', ')
+                            : 'Not verified — this question needs manual review'}
+                    </div>
+                    {question.explanation && (
+                        <div style={{ marginTop: 12, paddingTop: 12, borderTop: '1px solid var(--border)' }}>
+                            <strong>Detailed Explanation:</strong>
+                            <p style={{ marginTop: 8, fontSize: 14, lineHeight: 1.5, color: 'var(--text-secondary)' }}>
+                                {question.explanation}
+                            </p>
+                        </div>
+                    )}
                 </div>
             )}
         </div>

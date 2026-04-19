@@ -1,1496 +1,2418 @@
 [
   {
-    "id": "w1_q1",
-    "week": 1,
     "questionNumber": 1,
-    "questionText": "Read the following statements and identify which one is correct_______________? Statement 1: Historical elements say how have we reached here. Statement 2: Introduction of the word \u201ccompetition\u201d demanded other form on innovation",
+    "questionText": "The school of psychology known as functionalism, which emphasized the purposes of the mind\u2019s operations, was founded by:",
     "options": [
       {
         "label": "A",
-        "text": "Only Statement 1 is correct."
+        "text": "Wilhelm Wundt"
       },
       {
         "label": "B",
-        "text": "Only Statement 2 is correct."
+        "text": "John Watson"
       },
       {
         "label": "C",
-        "text": "Neither statement are correct."
+        "text": "William James"
       },
       {
         "label": "D",
-        "text": "Both statements are correct."
+        "text": "Edward Titchener"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Functionalism was founded by William James, who emphasized understanding mental processes in terms of their adaptive purpose rather than their structure.",
+    "needsReview": false,
+    "id": "w1_q1_99cee2",
+    "week": 1
   },
   {
-    "id": "w1_q2",
-    "week": 1,
     "questionNumber": 2,
-    "questionText": "In re-imagining sports through marketing, value of Indian league in 2014- 2022 rose to how many billion dollars?",
+    "questionText": "The fact that you know you have seen the face before but cannot remember the name of the person, illustrates the cognitive process of:",
     "options": [
       {
         "label": "A",
-        "text": "5.8 billion USD"
+        "text": "perception"
       },
       {
         "label": "B",
-        "text": "8.4 billion USD"
+        "text": "attention"
       },
       {
         "label": "C",
-        "text": "9.4 billion USD"
+        "text": "recognition"
       },
       {
         "label": "D",
-        "text": "4.8 billion USD"
+        "text": "recall"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Knowing that a face is familiar without recalling the person\u2019s name illustrates recognition, which involves identifying previously encountered information without retrieving contextual details.",
+    "needsReview": false,
+    "id": "w1_q2_53bacb",
+    "week": 1
   },
   {
-    "id": "w1_q3",
-    "week": 1,
     "questionNumber": 3,
-    "questionText": "According to Peter Drucker, a business enterprise has two and only two basic functions. What are they?",
+    "questionText": "The term _________ refers to the relevance of the research to the \u201creal world.\u201d",
     "options": [
       {
         "label": "A",
-        "text": "Finance and accounting"
+        "text": "Internal validity"
       },
       {
         "label": "B",
-        "text": "Marketing and innovation"
+        "text": "Evolutionary validity"
       },
       {
         "label": "C",
-        "text": "Production and logistics"
+        "text": "Ecological validity"
       },
       {
         "label": "D",
-        "text": "Human resources and operations"
+        "text": "Neural validity"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Ecological validity refers to the extent to which research findings generalize to real-world situations outside laboratory settings.",
+    "needsReview": false,
+    "id": "w1_q3_ff7e0a",
+    "week": 1
   },
   {
-    "id": "w1_q4",
-    "week": 1,
     "questionNumber": 4,
-    "questionText": "Read the following statements and identify which one is correct Statement 1: The basic job of innovation in marketing is to keep the things going with a perspective of benefit realization by both the parties. Statement 2: Product innovation definitely is innovation in marketing",
+    "questionText": "_______________ challenged the assumption that mental events were beyond the realm of scientific study.",
     "options": [
       {
         "label": "A",
-        "text": "Only Statement 1 is correct."
+        "text": "Cognitive revolution"
       },
       {
         "label": "B",
-        "text": "Only Statement 2 is correct."
+        "text": "Behaviorist rebellion"
       },
       {
         "label": "C",
-        "text": "Neither statement are correct."
+        "text": "Human factor movements"
       },
       {
         "label": "D",
-        "text": "Both statements are correct."
+        "text": "Universal grammar"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "The cognitive revolution challenged behaviorism by re-establishing the scientific study of internal mental processes and representations.",
+    "needsReview": false,
+    "id": "w1_q4_5da1d3",
+    "week": 1
   },
   {
-    "id": "w1_q5",
-    "week": 1,
     "questionNumber": 5,
-    "questionText": "What does the term \u201cInnovation\u201d refer to_________ ?",
+    "questionText": "Since the 1970s, various techniques of _________ have allowed us to construct pictures of the anatomy and functioning of intact brains.",
     "options": [
       {
         "label": "A",
-        "text": "A new or improved product or process that differs significantly from previous ones and is actually used or made available to users"
+        "text": "Genetic engineering"
       },
       {
         "label": "B",
-        "text": "Any routine activity that repeats existing processes without change"
+        "text": "Brain Imaging"
       },
       {
         "label": "C",
-        "text": "A temporary promotion used only to increase short-term sales"
+        "text": "Neurosurgery"
       },
       {
         "label": "D",
-        "text": "The simple increase of production volume using the same methods"
+        "text": "Brain lesioning"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Brain imaging techniques developed since the 1970s allow researchers to examine the structure and functioning of the intact human brain.",
+    "needsReview": false,
+    "id": "w1_q5_08f46a",
+    "week": 1
   },
   {
-    "id": "w1_q6",
-    "week": 1,
     "questionNumber": 6,
-    "questionText": "In which year did Gary Thuerk, marketing manager at Digital Equipment Corp, sent and emailed back which was considered to be the very first marketing email?",
+    "questionText": "Historians date the founding of scientific psychology to the 1879 laboratory of:",
     "options": [
       {
         "label": "A",
-        "text": "1968"
+        "text": "William James"
       },
       {
         "label": "B",
-        "text": "1988"
+        "text": "Wilhelm Wundt"
       },
       {
         "label": "C",
-        "text": "1978"
+        "text": "John Locke"
       },
       {
         "label": "D",
-        "text": "1998"
+        "text": "Edward Titchener"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Scientific psychology is dated to Wilhelm Wundt\u2019s 1879 laboratory, which marked the first systematic experimental study of mental processes.",
+    "needsReview": false,
+    "id": "w1_q6_09d437",
+    "week": 1
   },
   {
-    "id": "w1_q7",
-    "week": 1,
     "questionNumber": 7,
-    "questionText": "______________means a product\u2019s value proposition gets eroded by the appearance of a number of new products which offer completely different price-benefit positions.",
+    "questionText": "The term \u201climited capacity processors\u201d suggests that:",
     "options": [
       {
         "label": "A",
-        "text": "Deterioration."
+        "text": "Humans have limited memory storage"
       },
       {
         "label": "B",
-        "text": "Escalation"
+        "text": "Human beings can only do so many things at once"
       },
       {
         "label": "C",
-        "text": "limitation"
+        "text": "Neurons can only fire at a certain rate"
       },
       {
         "label": "D",
-        "text": "Proliferation"
+        "text": "Processing in the brain occurs in parallel"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "The concept of limited-capacity processors means that human cognitive resources are finite, restricting simultaneous task performance.",
+    "needsReview": false,
+    "id": "w1_q7_114e61",
+    "week": 1
   },
   {
-    "id": "w1_q8",
-    "week": 1,
     "questionNumber": 8,
-    "questionText": "Define the term \u201ccommodity trap\u201d",
+    "questionText": "This psychologist sought to describe the intellectual structures underlying cognitive experience at different developmental points through an approach he called genetic epistemology:",
     "options": [
       {
         "label": "A",
-        "text": "A phase in which a firm reduces product quality to cut costs but increases prices"
+        "text": "Galton"
       },
       {
         "label": "B",
-        "text": "A situation where a company enjoys growing monopoly power and can raise prices freely"
+        "text": "Skinner"
       },
       {
         "label": "C",
-        "text": "a state when a company sees its competitive position being eroded to an extend that it can no longer command a premium price in its markets."
+        "text": "Wundt"
       },
       {
         "label": "D",
-        "text": "A strategy where a firm differentiates its products so strongly that it avoids price competition"
+        "text": "Piaget"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Jean Piaget\u2019s genetic epistemology explains how cognitive structures develop qualitatively across different stages of childhood.",
+    "needsReview": false,
+    "id": "w1_q8_0620e5",
+    "week": 1
   },
   {
-    "id": "w1_q9",
-    "week": 1,
     "questionNumber": 9,
-    "questionText": "Read the following statements and identify which one is /are correct about Commodity Trap Statement 1: In a commodity trap, the consumer receives more product benefits for their money or pays lower prices for the same or lower benefits. Statement 2: Deterioration creates Commodity trap Statement 3: Understand the deep-seated drivers of perceptions and behavior that are relevant to a product\u2019s appeal is commodity trap. Statement 4: Use a go-to-market strategy appropriate for the innovation and its customer.",
+    "questionText": "Clinical interviews are to introspection as ______ are to __________.",
     "options": [
       {
         "label": "A",
-        "text": "only statement 1 & 2 are correct"
+        "text": "Naturalistic observations; experiments"
       },
       {
         "label": "B",
-        "text": "only statement 3 & 4 are correct"
+        "text": "Naturalistic observations; quasi experiments"
       },
       {
         "label": "C",
-        "text": "only statement 1 & 4 are correct"
+        "text": "Controlled observations; naturalistic observations"
       },
       {
         "label": "D",
-        "text": "only statement 2 & 3 are correct"
-      },
-      {
-        "label": "E",
-        "text": "all of the above are correct"
+        "text": "Controlled observations; experiments"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Clinical interviews relate to introspection in the same way that controlled observations relate to naturalistic observations, differing in structure and experimental control.",
+    "needsReview": false,
+    "id": "w1_q9_eba145",
+    "week": 1
   },
   {
-    "id": "w1_q10",
-    "week": 1,
     "questionNumber": 10,
-    "questionText": "which of the following brand demonstrated innovation in distribution by utilizing the latest technology that made them a trailblazer in the industry.",
+    "questionText": "Which of the following is a basic assumption of the connectionist approach?",
     "options": [
       {
         "label": "A",
-        "text": "L\u2019oreal"
+        "text": "Serial processing"
       },
       {
         "label": "B",
-        "text": "Ikea"
+        "text": "Multiple stores where information is kept throughout processing"
       },
       {
         "label": "C",
-        "text": "Fedex"
+        "text": "Networks of connections among simple processing units"
       },
       {
         "label": "D",
-        "text": "Michelin"
+        "text": "A central processor that directs the flow of information"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 1 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "The connectionist approach assumes cognition emerges from networks of interconnected simple processing units rather than a central processor. (Refer to: Chapter 1 \u2013 Connectionist Approach, Cognitive Psychology: In and Out of the Laboratory (Kathleen M. Galotti) NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w1_q10_a9e6a3",
+    "week": 1
   },
   {
-    "id": "w2_q1",
-    "week": 2,
     "questionNumber": 1,
-    "questionText": "A product or service becomes \u201ccommoditized\u201d when which of the following occurs?",
+    "questionText": "A toy on the table represents",
     "options": [
       {
         "label": "A",
-        "text": "It enhances operational efficiency so that its cost advantage, rather than differentiation, drives market preference."
+        "text": "Distal stimulus"
       },
       {
         "label": "B",
-        "text": "It rapidly lose its intrinsic differentiation value."
+        "text": "Proximal stimulus"
       },
       {
         "label": "C",
-        "text": "It gradually standardizes its features while maintaining strong, unique brand meanings in consumers\u2019 minds."
+        "text": "Retinal image"
       },
       {
         "label": "D",
-        "text": "It faces no competition and can charge any price"
+        "text": "Percept"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "A toy on the table is the distal stimulus because it is the actual physical object in the environment that gives rise to sensory information (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q1_fef6d0",
+    "week": 2
   },
   {
-    "id": "w2_q2",
-    "week": 2,
     "questionNumber": 2,
-    "questionText": "When Wal-Mart entered DVD retailing and took share from dominant players like Circuit City and Best Buy by setting prices they could not match profitably, this was an example of which phenomenon?",
+    "questionText": "A patient with prosopagnosia has difficulty recognizing:",
     "options": [
       {
         "label": "A",
-        "text": "Market segmentation\u200b"
+        "text": "Drawing of objects."
       },
       {
         "label": "B",
-        "text": "Power shift"
+        "text": "Moving objects."
       },
       {
         "label": "C",
-        "text": "Internal restructuring"
+        "text": "Faces."
       },
       {
         "label": "D",
-        "text": "Product diversification"
+        "text": "Sounds."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Prosopagnosia involves difficulty recognizing faces while other forms of object recognition remain relatively intact. (Refer from: Galotti, 2010, Chapter 2, Visual Agnosia).",
+    "needsReview": false,
+    "id": "w2_q2_13260a",
+    "week": 2
   },
   {
-    "id": "w2_q3",
-    "week": 2,
     "questionNumber": 3,
-    "questionText": "In the context of the commodity trap, escalation happens when which of the following occurs?",
+    "questionText": "When you let go of a balloon and it floats away from you into the sky, the size of the retinal image gets smaller and smaller. However, you do not perceive the balloon as shrinking. This is an example of:",
     "options": [
       {
         "label": "A",
-        "text": "Companies jointly agree to maintain high prices and avoid competing on benefits"
+        "text": "Pattern recognition."
       },
       {
         "label": "B",
-        "text": "companies engage in a form of corporate one-upmanship where everyone is so busy trying to outdo each other that the fact that nobody is now making any money escapes attention."
+        "text": "Bottom-up processing."
       },
       {
         "label": "C",
-        "text": "A market moves from intense rivalry to stable long\u2011term contracts with fixed profitability"
+        "text": "Size constancy."
       },
       {
         "label": "D",
-        "text": "Firms deliberately reduce product benefits to simplify offerings and increase margins."
+        "text": "Figure-ground organization."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "This illustrates size constancy because perception of an object\u2019s size remains stable despite changes in the size of its retinal image. (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q3_2c536b",
+    "week": 2
   },
   {
-    "id": "w2_q4",
-    "week": 2,
     "questionNumber": 4,
-    "questionText": "Read the following statements and identify which are correct in relation to consolidation in a market. Statement 1: Consolidation implies that power, strength, or control comes to lie in the hands of a small number of buyers. Statement 2:The process of consolidation is accelerated by increasing mergers, acquisitions, and alliances among previously independent organizations.",
+    "questionText": "The meaningful interpretation of a proximal stimulus is called the:",
     "options": [
       {
         "label": "A",
-        "text": "Statement 1 is correct"
+        "text": "Percept."
       },
       {
         "label": "B",
-        "text": "Statement 2 is correct"
+        "text": "Sensation."
       },
       {
         "label": "C",
-        "text": "Both statements are correct"
+        "text": "Distal stimulus."
       },
       {
         "label": "D",
-        "text": "Neither of the statements are correct"
+        "text": "Retinal Image"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Detailed Explanation :   A percept is the meaningful interpretation of sensory input derived from a proximal stimulus. (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q4_f683e9",
+    "week": 2
   },
   {
-    "id": "w2_q5",
-    "week": 2,
     "questionNumber": 5,
-    "questionText": "The situation in the retailing industry, where big chains and buying groups gain a massive upper hand over their suppliers, including producers of many branded products, is best described as:",
+    "questionText": "The two best studied forms of perception are:",
     "options": [
       {
         "label": "A",
-        "text": "Margin erosion"
+        "text": "Visual and Haptic"
       },
       {
         "label": "B",
-        "text": "Power shift"
+        "text": "Visual and Olfactory"
       },
       {
         "label": "C",
-        "text": "Value focus"
+        "text": "Visual and Auditory"
       },
       {
         "label": "D",
-        "text": "Expansion of new markets"
+        "text": "Auditory and Olfactory"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Vision and audition are the most extensively studied perceptual systems in cognitive psychology. (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q5_5faff9",
+    "week": 2
   },
   {
-    "id": "w2_q6",
-    "week": 2,
     "questionNumber": 6,
-    "questionText": "_______________is the study of how customers, both individuals and organizations, satisfy their needs and wants by choosing, purchasing, using and disposing of goods, ideas and services.",
+    "questionText": "Which of the following represents a good example of a proximal stimulus?",
     "options": [
       {
         "label": "A",
-        "text": "Consumer behavior"
+        "text": "A book on a shelf."
       },
       {
         "label": "B",
-        "text": "Market segmentation"
+        "text": "A tree in your yard."
       },
       {
         "label": "C",
-        "text": "Market segmentation"
+        "text": "A building on the horizon."
       },
       {
         "label": "D",
-        "text": "Sales forecasting"
+        "text": "The retinal image formed by a tree."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Detailed Explanation : A proximal stimulus refers to the pattern of stimulation on the sensory receptors, such as the retinal image. (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q6_93b459",
+    "week": 2
   },
   {
-    "id": "w2_q7",
-    "week": 2,
     "questionNumber": 7,
-    "questionText": "_______________generated a value focus by emphasizing innovation while maintaining a clear distinction between \u2018renovation\u2019 and \u2018innovation\u2019.",
+    "questionText": "According to Gibson\u2019s theory, the acts or behaviors permitted by objects, places, and events are called:",
     "options": [
       {
         "label": "A",
-        "text": "Mc Donalds"
+        "text": "Consequences"
       },
       {
         "label": "B",
-        "text": "Unilever"
+        "text": "Functions"
       },
       {
         "label": "C",
-        "text": "Nestle"
+        "text": "Affordances"
       },
       {
         "label": "D",
-        "text": "Coca-cola"
+        "text": "Direct processes"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Gibson\u2019s theory defines affordances as the actions that objects or environments allow or invite. (Refer from: Galotti, 2010, Chapter 2, Direct Perception).",
+    "needsReview": false,
+    "id": "w2_q7_f88d63",
+    "week": 2
   },
   {
-    "id": "w2_q8",
-    "week": 2,
     "questionNumber": 8,
-    "questionText": "The global automobile manufacturing industry, in which suppliers find themselves relying on a shrinking number of Original Equipment Manufacturer (OEM) customers, is an example of which phenomenon?",
+    "questionText": "A stencil provides a good analogy for the theory of:",
     "options": [
       {
         "label": "A",
-        "text": "Consolidation"
+        "text": "Prototype matching."
       },
       {
         "label": "B",
-        "text": "Market fragmentation"
+        "text": "Template matching."
       },
       {
         "label": "C",
-        "text": "Product diversification"
+        "text": "Good continuation."
       },
       {
         "label": "D",
-        "text": "Brand proliferation"
+        "text": "Featural analysis."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "A stencil exemplifies template matching because recognition occurs through direct comparison with stored exact patterns. (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q8_7a08d6",
+    "week": 2
   },
   {
-    "id": "w2_q9",
-    "week": 2,
     "questionNumber": 9,
-    "questionText": "Define the term consolidation",
+    "questionText": "___________ are to visual perception what phonemes are to language, according to Biederman.",
     "options": [
       {
         "label": "A",
-        "text": "The short\u2011term promotion technique used to clear excess inventory through discounts"
+        "text": "Receptors"
       },
       {
         "label": "B",
-        "text": "The strategy of spreading sales evenly across as many small customers as possible in different markets"
+        "text": "Retinas"
       },
       {
         "label": "C",
-        "text": "The practice of frequently switching suppliers to avoid dependence on any single customer or partner"
+        "text": "Distal stimuli"
       },
       {
         "label": "D",
-        "text": "The process of growing the concentration of sales and profits among a handful of major customers"
+        "text": "Geons"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Geons are the basic components of object perception, analogous to phonemes in language, according to Biederman\u2019s theory. (Refer from: Galotti, 2010, Chapter 2).",
+    "needsReview": false,
+    "id": "w2_q9_09b8e5",
+    "week": 2
   },
   {
-    "id": "w2_q10",
-    "week": 2,
     "questionNumber": 10,
-    "questionText": "Levi\u2019s, the iconic jeans brand, faced intense competition from many low\u2011priced rivals, which negatively affected its producer margins and forced the company to introduce the Levi Strauss Signature line at a price about 50% below its traditional jeans in order to stop losing market share. This situation is best described as:",
+    "questionText": "The principle governing reversible figures is:",
     "options": [
       {
         "label": "A",
-        "text": "Power shift"
+        "text": "Figure-ground organization"
       },
       {
         "label": "B",
-        "text": "Commoditization"
+        "text": "Size constancy"
       },
       {
         "label": "C",
-        "text": "Consolidation"
+        "text": "Dimensionality"
       },
       {
         "label": "D",
-        "text": "Marginal Erosion"
+        "text": "Retinal imagery"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 2 Solution.pdf",
-    "sourcePage": 4,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Reversible figures depend on figure\u2013ground organization, where perception alternates between competing interpretations. (Refer from: Galotti, 2010, Chapter 2). NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w2_q10_e26f63",
+    "week": 2
   },
   {
-    "id": "w3_q1",
-    "week": 3,
     "questionNumber": 1,
-    "questionText": "Repositioning by associating a \"tainted\" product with a category consumers embrace, a company can overcome consumer resistance and advance the product from introduction to growth is called__________________?",
+    "questionText": "According to Attenuation theory of Treisman, people tend to process:",
     "options": [
       {
         "label": "A",
-        "text": "Reverse Positioning"
+        "text": "Only to the level of physical characteristics"
       },
       {
         "label": "B",
-        "text": "Breakaway Positioning"
+        "text": "Only to the level of linguistic characteristics, separating it into words"
       },
       {
         "label": "C",
-        "text": "Stealth Positioning"
+        "text": "At a semantic level, analysing for meaning most of the time"
       },
       {
         "label": "D",
-        "text": "Flank positioning"
+        "text": "Only as much as is necessary to separate the attended from the unattended message"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Treisman\u2019s Attenuation Theory states that unattended information is weakened rather than blocked and processed only if it exceeds a threshold.",
+    "needsReview": false,
+    "id": "w3_q1_0a1fb6",
+    "week": 3
   },
   {
-    "id": "w3_q2",
-    "week": 3,
     "questionNumber": 2,
-    "questionText": "In Targeting_______________is satisfied if the targets or customers or segments represent a large enough portion of the market to ensure the profitability of the marketing programs. It is closely connected to the marketing goals and cost structure of the firm in question.",
+    "questionText": "The \u201ccocktail party effect\u201d refers to the fact that shadowing performance is disrupted when _______ is embedded in the unattended message.",
     "options": [
       {
         "label": "A",
-        "text": "Substantiality"
+        "text": "Backward speech"
       },
       {
         "label": "B",
-        "text": "Accessibility"
+        "text": "The listener\u2019s name"
       },
       {
         "label": "C",
-        "text": "Stability"
+        "text": "A section of repeated words"
       },
       {
         "label": "D",
-        "text": "Identifiability"
+        "text": "Music"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Personally meaningful stimuli such as one\u2019s own name can break through selective attention even when presented in the unattended channel.",
+    "needsReview": false,
+    "id": "w3_q2_631f46",
+    "week": 3
   },
   {
-    "id": "w3_q3",
-    "week": 3,
     "questionNumber": 3,
-    "questionText": "which of the following statements is/are correct in innovation perspective Statement 1: From 2019-2022, the online grocery market in India saw an exponential growth of 56% Compound Annual Growth Rate, according to a study by consulting firm Redseer. Statement 2: Lego is an example of how flexible manufacturing process is used both by the company and customer.",
+    "questionText": "In Kahneman\u2019s model of attention, allocation of mental resources is affected by preferences for certain kinds of tasks over others. These preferences are known as:",
     "options": [
       {
         "label": "A",
-        "text": "Only statement 1 is correct"
+        "text": "Enduring dispositions"
       },
       {
         "label": "B",
-        "text": "Only statement 2 is correct"
+        "text": "Arousal states"
       },
       {
         "label": "C",
-        "text": "Both 1 and 2 are correct"
+        "text": "Late selected preferences"
       },
       {
         "label": "D",
-        "text": "Neither of the statements are correct"
+        "text": "Momentary intentions"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Enduring dispositions are long-term attentional biases that influence how mental effort is allocated across tasks.",
+    "needsReview": false,
+    "id": "w3_q3_b2849b",
+    "week": 3
   },
   {
-    "id": "w3_q4",
-    "week": 3,
     "questionNumber": 4,
-    "questionText": "The gross merchandise value (GMV) refers to_________________?",
+    "questionText": "The word \u201ccat\u201d is ______ by the phrase \u201cThe dog chased the\u2026.\u201d\u00a0 That is, the word cat is especially ready to be recognized or attended to.",
     "options": [
       {
         "label": "A",
-        "text": "The total value of goods sold via e\u2011commerce platforms over a specific period."
+        "text": "filtered"
       },
       {
         "label": "B",
-        "text": "The net profit remaining after all e\u2011commerce expenses are deducted"
+        "text": "attenuated"
       },
       {
         "label": "C",
-        "text": "The total advertising spend of an e\u2011commerce company in a year"
+        "text": "primed"
       },
       {
         "label": "D",
-        "text": "The average inventory held by an e\u2011commerce warehouse."
+        "text": "suggested"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Contextual information activates related concepts in memory, increasing the likelihood of recognizing the expected word.",
+    "needsReview": false,
+    "id": "w3_q4_1a1513",
+    "week": 3
   },
   {
-    "id": "w3_q5",
-    "week": 3,
     "questionNumber": 5,
-    "questionText": "In the current era of marketing , the traditional STP (Segmentation\u2013Targeting\u2013 Positioning) framework is increasingly viewed as shifting toward",
+    "questionText": "When listening to a conversation, your attention is momentarily diverted when you hear your name spoken in a different conversation across the room.\u00a0 This is an example of the:",
     "options": [
       {
         "label": "A",
-        "text": "ST - Segmentation and Targeting only"
+        "text": "filter effect"
       },
       {
         "label": "B",
-        "text": "SP - Segmentation and Positioning only"
+        "text": "dichotic listening phenomenon"
       },
       {
         "label": "C",
-        "text": "MP - Mass Promotion without targeting"
+        "text": "cocktail party effect"
       },
       {
         "label": "D",
-        "text": "TP - Targeting and Positioning at the individual level"
+        "text": "attenuation effect"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "This effect demonstrates that unattended information can still be processed for meaning if it is highly salient or relevant.",
+    "needsReview": false,
+    "id": "w3_q5_c87ad3",
+    "week": 3
   },
   {
-    "id": "w3_q6",
-    "week": 3,
     "questionNumber": 6,
-    "questionText": "________________refers to practices aimed at existing target customers, with existing sales or promotional practices, employing existing arguments and approaches, that has its limits.",
+    "questionText": "Which of the following would NOT be a reasonable basis for filtering, according to Broadbent\u2019s model?",
     "options": [
       {
         "label": "A",
-        "text": "Digital marketing"
+        "text": "Whether the message was coming from your right or your left side"
       },
       {
         "label": "B",
-        "text": "Traditional marketing"
+        "text": "The pitch of the voice reading the message"
       },
       {
         "label": "C",
-        "text": "Viral marketing"
+        "text": "The loudness of the voice reading the message"
       },
       {
         "label": "D",
-        "text": "Experiential marketing"
+        "text": "The language that the message was being read in"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Broadbent\u2019s filter model allows selection based only on physical features, not semantic properties such as language.",
+    "needsReview": false,
+    "id": "w3_q6_1175cb",
+    "week": 3
   },
   {
-    "id": "w3_q7",
-    "week": 3,
     "questionNumber": 7,
-    "questionText": "__________________requires marketers to develop an enhanced understanding of their industry, including activity at successive steps throughout the value chain, and to apply marketing tools to maximize effectiveness of the marketing programme up and down the value chain.",
+    "questionText": "Cognitive psychologists use all of the following as criteria for determining whether an activity is automatic EXCEPT:",
     "options": [
       {
         "label": "A",
-        "text": "Green marketing"
+        "text": "Whether it occurs intentionally"
       },
       {
         "label": "B",
-        "text": "Guerrilla marketing"
+        "text": "Whether it gives rise to conscious awareness"
       },
       {
         "label": "C",
-        "text": "Relationship marketing"
+        "text": "Whether it interferes with other activities"
       },
       {
         "label": "D",
-        "text": "Value chain marketing"
+        "text": "Whether it requires mental filtering"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Automatic processes are defined by lack of intention, minimal awareness, and low interference\u2014not by filtering demands.",
+    "needsReview": false,
+    "id": "w3_q7_6782c5",
+    "week": 3
   },
   {
-    "id": "w3_q8",
-    "week": 3,
     "questionNumber": 8,
-    "questionText": "_______________ is the practice of narrowly focusing marketing activities to attract a specific, clearly defined group of potential customers.",
+    "questionText": "Certain stimuli seem to jump off the page at the viewer, causing an involuntary shift of attention that is referred to as:",
     "options": [
       {
         "label": "A",
-        "text": "segmenting"
+        "text": "The Stroop effect"
       },
       {
         "label": "B",
-        "text": "Targeting"
+        "text": "Attentional capture"
       },
       {
         "label": "C",
-        "text": "positioning"
+        "text": "Attenuation"
       },
       {
         "label": "D",
-        "text": "mass marketing"
+        "text": "The cocktail party effect"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Salient stimuli can automatically draw attention without conscious intention or effort.",
+    "needsReview": false,
+    "id": "w3_q8_1548b8",
+    "week": 3
   },
   {
-    "id": "w3_q9",
-    "week": 3,
     "questionNumber": 9,
-    "questionText": "_________________utilized their digital medium to effectively provide highly customized products for their targets. The brand provides online trial for their products to customers by innovation on their platforms.",
+    "questionText": "Stroop interference lessens when:",
     "options": [
       {
         "label": "A",
-        "text": "Titan Watches"
+        "text": "Participants are better readers."
       },
       {
         "label": "B",
-        "text": "Lenskart"
+        "text": "Participants are given more practice at naming colours."
       },
       {
         "label": "C",
-        "text": "Myntra"
+        "text": "Participants are girls rather than boys."
       },
       {
         "label": "D",
-        "text": "Nykaa"
+        "text": "Participants are encouraged to focus carefully."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 3,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Practice strengthens controlled processing and reduces interference from automatic word reading.",
+    "needsReview": false,
+    "id": "w3_q9_419c33",
+    "week": 3
   },
   {
-    "id": "w3_q10",
-    "week": 3,
     "questionNumber": 10,
-    "questionText": "which of the following statements is/are correct in targeting Statement 1: A service guarantee can be a very good way of persuading customers to buy from you. Statement 2: In responsiveness , segments or customers are actionable if their identification provides guidance for decisions on the effective specification of marketing instruments..",
+    "questionText": "Research on divided attention suggests that:",
     "options": [
       {
         "label": "A",
-        "text": "only 1 is correct"
+        "text": "Some people can multitask without any drop in performance."
       },
       {
         "label": "B",
-        "text": "only 2 is correct"
+        "text": "There are no limits on the number of things that we can successfully do at once."
       },
       {
         "label": "C",
-        "text": "both 1 and 2 are correct"
+        "text": "As individual tasks becomes more demanding, multitasking becomes more efficient."
       },
       {
         "label": "D",
-        "text": "neither of the statements are correct"
+        "text": "If you think that you are doing two things simultaneously, you are probably really switching attention back and forth between the two."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 3 Solution.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Divided-attention research shows that performance declines because attention alternates rapidly between tasks. NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w3_q10_ac9f71",
+    "week": 3
   },
   {
-    "id": "w4_q1",
-    "week": 4,
     "questionNumber": 1,
-    "questionText": "The arrow pointing from \"CORE\" towards \"Targeted Extension\" indicates a strategic move that primarily emphasizes:",
+    "questionText": "Which of the following is NOT a component of Baddeley\u2019s working memory model?",
     "options": [
       {
         "label": "A",
-        "text": "Increasing value through bundling."
+        "text": "The phonological loop"
       },
       {
         "label": "B",
-        "text": "Increasing value through segmentation and customization."
+        "text": "The icon"
       },
       {
         "label": "C",
-        "text": "Decreasing value through bundling."
+        "text": "The central executive"
       },
       {
         "label": "D",
-        "text": "Decreasing value through segmentation and customization."
+        "text": "The visuospatial sketchpad"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Baddeley\u2019s working memory model consists of the phonological loop, visuospatial sketchpad, and central executive (later, episodic buffer). The icon belongs to iconic (sensory) memory, not working memory.",
+    "needsReview": false,
+    "id": "w4_q1_32f4ef",
+    "week": 4
   },
   {
-    "id": "w4_q2",
-    "week": 4,
     "questionNumber": 2,
-    "questionText": "A firm develops a package of products and services where the \"bundled whole is larger than the sum of its parts.\" This describes which strategy?",
+    "questionText": "Sternberg\u2019s classic work on searching for information from short-term memory indicated that the search process is:",
     "options": [
       {
         "label": "A",
-        "text": "System Development"
+        "text": "Serial"
       },
       {
         "label": "B",
-        "text": "Solutions Innovation"
+        "text": "Self - terminating"
       },
       {
         "label": "C",
-        "text": "Targeted Extension"
+        "text": "Parallel"
       },
       {
         "label": "D",
-        "text": "CORE"
+        "text": "Both serial and exhaustive"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Sternberg showed that memory search proceeds item by item and continues through the entire set even after a match is found. This pattern supports a serial exhaustive search model of short-term memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q2_12ebfb",
+    "week": 4
   },
   {
-    "id": "w4_q3",
-    "week": 4,
     "questionNumber": 3,
-    "questionText": "When a brand projects human-like traits, such as Mercedes-Benz suggesting \"affluence, prestige and conservatism,\" which level of brand meaning is being described?",
+    "questionText": "In the absence of rehearsal, short-term memory tends to:",
     "options": [
       {
         "label": "A",
-        "text": "Personality"
+        "text": "Last about 20 seconds"
       },
       {
         "label": "B",
-        "text": "Culture"
+        "text": "Last about 8 seconds"
       },
       {
         "label": "C",
-        "text": "User"
+        "text": "Decay slowly over 24 hours"
       },
       {
         "label": "D",
-        "text": "Values"
+        "text": "Decay slowly over a week"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Without rehearsal, information in short-term memory fades rapidly within approximately 15\u201330 seconds. This finding comes from classic studies on memory decay. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q3_e35cc0",
+    "week": 4
   },
   {
-    "id": "w4_q4",
-    "week": 4,
     "questionNumber": 4,
-    "questionText": "Which of the following lists the five key steps of the \"Product to Brands to Passion Brands\" pyramid in the correct order, from bottom to top?",
+    "questionText": "The suffix effect relates to which type of memory?",
     "options": [
       {
         "label": "A",
-        "text": "Awareness, Acquaintance, Relationship, Emotions, Passion"
+        "text": "Iconic"
       },
       {
         "label": "B",
-        "text": "Acquaintance, Awareness, Relationship, Passion, Emotions"
+        "text": "Echoic"
       },
       {
         "label": "C",
-        "text": "Awareness, Relationship, Acquaintance, Emotions, Passion"
+        "text": "Short term"
       },
       {
         "label": "D",
-        "text": "Awareness, Acquaintance, Emotions, Relationship, Passion"
+        "text": "Working"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "The suffix effect occurs when an irrelevant sound disrupts recall of auditory information. This demonstrates the brief persistence of echoic (auditory sensory) memory.",
+    "needsReview": false,
+    "id": "w4_q4_591665",
+    "week": 4
   },
   {
-    "id": "w4_q5",
-    "week": 4,
     "questionNumber": 5,
-    "questionText": "The level defined by \"Significant similarity, reliability, heritage\" comes immediately after which level?",
+    "questionText": "Unattended information is stored briefly in:",
     "options": [
       {
         "label": "A",
-        "text": "Relationship"
+        "text": "Sensory memory"
       },
       {
         "label": "B",
-        "text": "Awareness"
+        "text": "Short term memory"
       },
       {
         "label": "C",
-        "text": "Emotions"
+        "text": "Long term memory"
       },
       {
         "label": "D",
-        "text": "Passion"
+        "text": "Working memory"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Unattended information is briefly held in sensory memory before it fades. Only attended information proceeds to short-term or working memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q5_162224",
+    "week": 4
   },
   {
-    "id": "w4_q6",
-    "week": 4,
     "questionNumber": 6,
-    "questionText": "Which differential pricing approach involves using observable buyer characteristics like age, location, or occupation to adjust prices based on an assumed willingness to pay?",
+    "questionText": "Retrieval involves:",
     "options": [
       {
         "label": "A",
-        "text": "Individualizing"
+        "text": "The activation of the senses"
       },
       {
         "label": "B",
-        "text": "Developing a menu"
+        "text": "The translation of information into a form that can be stored"
       },
       {
         "label": "C",
-        "text": "Bundling"
+        "text": "The storage of information over time"
       },
       {
         "label": "D",
-        "text": "Categorizing"
+        "text": "The calling to mind of previously stored information"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Retrieval refers to accessing stored information from long-term memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q6_445151",
+    "week": 4
   },
   {
-    "id": "w4_q7",
-    "week": 4,
     "questionNumber": 7,
-    "questionText": "When people are given a choice between small, medium, and large portions at a restaurant, they often choose the \"middle alternative\" (the medium-sized portion). This tendency is called the:",
+    "questionText": "The primacy and recency effects in memory:",
     "options": [
       {
         "label": "A",
-        "text": "Endowment Effect"
+        "text": "Are thought to be due to the action of short-term memory"
       },
       {
         "label": "B",
-        "text": "Framing Effect"
+        "text": "Are thought to be due to the action of long-term memory"
       },
       {
         "label": "C",
-        "text": "Compromise Effect"
+        "text": "Are thought to be due to the action of sensory memory"
       },
       {
         "label": "D",
-        "text": "Attraction Effect"
+        "text": "Can be independently manipulated, indicating at least two types of memory at work"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Primacy effects reflect long-term memory, while recency effects reflect short-term memory. Their independent manipulation supports the existence of multiple memory systems. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q7_cbabf2",
+    "week": 4
   },
   {
-    "id": "w4_q8",
-    "week": 4,
     "questionNumber": 8,
-    "questionText": "A company gives a 90-day free trial of anti-virus software with a new computer, making the purchaser more likely to buy the software at the end of the trial. This strategy relies on the:",
+    "questionText": "Information in short-term memory is assumed to be coded primarily by:",
     "options": [
       {
         "label": "A",
-        "text": "Endowment Effect"
+        "text": "Sound"
       },
       {
         "label": "B",
-        "text": "Attraction Effect"
+        "text": "Meaning"
       },
       {
         "label": "C",
-        "text": "Compromise Effect"
+        "text": "Visual appearance"
       },
       {
         "label": "D",
-        "text": "Framing Effect"
+        "text": "Both sound and meaning"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Short-term memory relies primarily on acoustic coding, as shown by confusion between similar-sounding items. This distinguishes it from semantic coding in long-term memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q8_383f94",
+    "week": 4
   },
   {
-    "id": "w4_q9",
-    "week": 4,
     "questionNumber": 9,
-    "questionText": "What is \"Pay-for-performance pricing\"?",
+    "questionText": "Repeating a phone number to yourself to hold it in memory while you dial it would use which component of working memory?",
     "options": [
       {
         "label": "A",
-        "text": "A model where the seller is paid a fixed price, regardless of the outcome."
+        "text": "The visuospatial sketchpad"
       },
       {
         "label": "B",
-        "text": "A model where the seller is paid depending on performance outcomes determined conjointly with the customer."
+        "text": "The phonological loop"
       },
       {
         "label": "C",
-        "text": "A model where customers pay based on their \"willingness to pay.\""
+        "text": "The episodic buffer"
       },
       {
         "label": "D",
-        "text": "A \"one-size-fits-all\" pricing policy."
+        "text": "Both the visuospatial sketchpad and the phonological loop"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "The phonological loop maintains verbal information through rehearsal. Repeating a phone number relies on this verbal working memory system. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures",
+    "needsReview": false,
+    "id": "w4_q9_e41bec",
+    "week": 4
   },
   {
-    "id": "w4_q10",
-    "week": 4,
     "questionNumber": 10,
-    "questionText": "In a \u201cPay What You Want (PWYW)\u201d pricing model, the customer has:",
+    "questionText": "Disrupting the process of long-term potentiation leads to:",
     "options": [
       {
         "label": "A",
-        "text": "No control over the price"
+        "text": "Disruption of learning and remembering"
       },
       {
         "label": "B",
-        "text": "Partial control over the price"
+        "text": "Recovery from anterograde amnesia"
       },
       {
         "label": "C",
-        "text": "Full discretion in setting the price"
+        "text": "Recovery from retrograde amnesia"
       },
       {
         "label": "D",
-        "text": "To pay a fixed minimum price"
+        "text": "Language deficits"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 4.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Long-term potentiation strengthens synaptic connections and supports memory formation. Disrupting LTP interferes with learning and long-term memory consolidation. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w4_q10_2229e4",
+    "week": 4
   },
   {
-    "id": "w5_q1",
-    "week": 5,
     "questionNumber": 1,
-    "questionText": "Intermediaries, such as wholesalers and retailers, who \"buy, take title to, and resell the merchandise\" are called:",
+    "questionText": "As classically conceived, long-term memory is held to have all of the following properties EXCEPT:",
     "options": [
       {
         "label": "A",
-        "text": "Agents"
+        "text": "It comprises a permanent or at least semipermanent store"
       },
       {
         "label": "B",
-        "text": "Facilitators"
+        "text": "It has virtually unlimited capacity"
       },
       {
         "label": "C",
-        "text": "Merchants"
+        "text": "It primarily uses acoustic coding"
       },
       {
         "label": "D",
-        "text": "Brokers"
+        "text": "Information stored within it is not always easily accessible"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Long-term memory does not primarily use acoustic coding because it relies mainly on semantic (meaning-based) encoding. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q1_eea0c6",
+    "week": 5
   },
   {
-    "id": "w5_q2",
-    "week": 5,
     "questionNumber": 2,
-    "questionText": "In banking services, non-linear pricing is observed when:",
+    "questionText": "Psychologists believe that the capacity of long-term memory is:",
     "options": [
       {
         "label": "A",
-        "text": "Monthly account fees remain the same for all customers"
+        "text": "unlimited"
       },
       {
         "label": "B",
-        "text": "Monthly account fees drop as customers hold more products"
+        "text": "7 + 2 items"
       },
       {
         "label": "C",
-        "text": "Interest rates are fixed for all account holders"
+        "text": "18 items"
       },
       {
         "label": "D",
-        "text": "Transaction charges are uniform"
+        "text": "5000 items"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "The capacity of long-term memory is considered virtually unlimited based on evidence from cognitive memory research. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q2_f87879",
+    "week": 5
   },
   {
-    "id": "w5_q3",
-    "week": 5,
     "questionNumber": 3,
-    "questionText": "The quadrant in the innovation matrix labeled \"Missed opportunities\" is characterized by:",
+    "questionText": "Which of the following are most likely to be confused in long-term memory?",
     "options": [
       {
         "label": "A",
-        "text": "High Product Innovation and High Pricing Innovation"
+        "text": "The letters P and R"
       },
       {
         "label": "B",
-        "text": "High Product Innovation and Low Pricing Innovation"
+        "text": "The letters C and B"
       },
       {
         "label": "C",
-        "text": "Low Product Innovation and High Pricing Innovation"
+        "text": "The words \u201csee\u201d and \u201cbee\u201d"
       },
       {
         "label": "D",
-        "text": "Low Product Innovation and Low Pricing Innovation"
+        "text": "The words \u201cbig\u201d and \u201clarge\u201d"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Words such as \u201cbig\u201d and \u201clarge\u201d are most likely to be confused in long-term memory because information is organized semantically. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q3_7fe6ff",
+    "week": 5
   },
   {
-    "id": "w5_q4",
-    "week": 5,
     "questionNumber": 4,
-    "questionText": "The pricing strategy where prices \"start out at a particular rate and will increase at set intervals of time,\" such as \"early bird offers\" for conferences, is known as:",
+    "questionText": "The code in long-term memory is based on:",
     "options": [
       {
         "label": "A",
-        "text": "Volume discounts"
+        "text": "Sound"
       },
       {
         "label": "B",
-        "text": "Mixed bundling"
+        "text": "Visual imagery"
       },
       {
         "label": "C",
-        "text": "Dynamic pricing"
+        "text": "Meaning"
       },
       {
         "label": "D",
-        "text": "Progressive pricing"
+        "text": "Both sound and visual imagery"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "The dominant code in long-term memory is meaning rather than sound or visual appearance. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q4_85f425",
+    "week": 5
   },
   {
-    "id": "w5_q5",
-    "week": 5,
     "questionNumber": 5,
-    "questionText": "Consider the following statements: Statement 1: Push strategy involves the manufacturer using its salesforce and trade promotion money to induce intermediaries to carry, promote, and sell the product to end users. Statement 2: Pull strategy involves the manufacturer using advertise advertising and promotion to induce customers to ask intermediaries for the product, thus inducing the intermediaries to order it. Which of the following is correct?",
+    "questionText": "Your memory for how to ride a bicycle is an example of ______ memory.",
     "options": [
       {
         "label": "A",
-        "text": "Only Statement 1 is correct"
+        "text": "Explicit"
       },
       {
         "label": "B",
-        "text": "Only Statement 2 is correct"
+        "text": "Implicit"
       },
       {
         "label": "C",
-        "text": "Both Statement 1 and Statement 2 are correct"
+        "text": "Declarative"
       },
       {
         "label": "D",
-        "text": "Neither Statement 1 nor Statement 2 is correct"
+        "text": "Procedural"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Memory for how to ride a bicycle is procedural memory, a form of implicit long-term memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q5_eff41e",
+    "week": 5
   },
   {
-    "id": "w5_q6",
-    "week": 5,
     "questionNumber": 6,
-    "questionText": "The channel Manufacturer \u2192 Wholesaler \u2192 Retailer \u2192 Consumer represents which type of distribution channel?",
+    "questionText": "A retrieval cue will be most effective when it is highly distinctive or unusual, according to the principle of:",
     "options": [
       {
         "label": "A",
-        "text": "Zero-level channel"
+        "text": "Cue overload"
       },
       {
         "label": "B",
-        "text": "One-level channel"
+        "text": "Encoding specificity"
       },
       {
         "label": "C",
-        "text": "Two-level channel"
+        "text": "Mood dependence"
       },
       {
         "label": "D",
-        "text": "Three-level channel"
+        "text": "State dependence"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "A retrieval cue is most effective when it is distinctive because multiple memories competing for the same cue reduce recall (cue overload). Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q6_f3b640",
+    "week": 5
   },
   {
-    "id": "w5_q7",
-    "week": 5,
     "questionNumber": 7,
-    "questionText": "A retail store characterized by a \"Narrow product line\" is known as a:",
+    "questionText": "Context effects and state-dependent learning effects occur:",
     "options": [
       {
         "label": "A",
-        "text": "Department store"
+        "text": "For recall tests only"
       },
       {
         "label": "B",
-        "text": "Supermarket"
+        "text": "For recognition tests only"
       },
       {
         "label": "C",
-        "text": "Specialty store"
+        "text": "For both recall and recognition"
       },
       {
         "label": "D",
-        "text": "Discount store"
+        "text": "For paired associate tests only"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Context and state-dependent effects occur mainly in recall tasks because recall depends heavily on retrieval cues. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q7_e11ff0",
+    "week": 5
   },
   {
-    "id": "w5_q8",
-    "week": 5,
     "questionNumber": 8,
-    "questionText": "Telemarketing and online shopping (like Amazon and Flipkart) are examples of which form of nonstore retailing?",
+    "questionText": "Bahrick\u2019s study of retention of Spanish vocabulary words showed that large portions of information remained in long-term memory for:",
     "options": [
       {
         "label": "A",
-        "text": "Direct selling"
+        "text": "Several months"
       },
       {
         "label": "B",
-        "text": "Automatic vending"
+        "text": "1-2 years"
       },
       {
         "label": "C",
-        "text": "Direct marketing"
+        "text": "Up to 5 years"
       },
       {
         "label": "D",
-        "text": "Buying services"
+        "text": "Over 50 years"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Research on foreign-language learning shows that substantial amounts of information can remain in long-term memory for over 50 years. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q8_e46e7e",
+    "week": 5
   },
   {
-    "id": "w5_q9",
-    "week": 5,
     "questionNumber": 9,
-    "questionText": "Hewlett Packard (HP) uses its sales force, outbound marketing, direct mail, retailers, and the Internet to sell to different customer segments. This is an example of:",
+    "questionText": "Techniques designed to improve memory, often involving the use of visual imagery, are called:",
     "options": [
       {
         "label": "A",
-        "text": "Multi-channel marketing"
+        "text": "Mnemonics"
       },
       {
         "label": "B",
-        "text": "Omni-channel marketing"
+        "text": "Eidetic"
       },
       {
         "label": "C",
-        "text": "Single-channel marketing"
+        "text": "Iconic"
       },
       {
         "label": "D",
-        "text": "Direct marketing"
+        "text": "IQ enhancers"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Techniques that improve memory through imagery and organization are known as mnemonics. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory",
+    "needsReview": false,
+    "id": "w5_q9_fcff4f",
+    "week": 5
   },
   {
-    "id": "w5_q10",
-    "week": 5,
     "questionNumber": 10,
-    "questionText": "Walt Disney\u2019s \u201cMy Disney Experience\u201d app, which lets guests plan trips, book dining, check transportation, and shop seamlessly online and in person, is an example of:",
+    "questionText": "Your memory of your first college lecture would be an example of:",
     "options": [
       {
         "label": "A",
-        "text": "Multi-channel marketing"
+        "text": "Semantic memory"
       },
       {
         "label": "B",
-        "text": "Omni-channel marketing"
+        "text": "Episodic memory"
       },
       {
         "label": "C",
-        "text": "Direct selling"
+        "text": "Implicit memory"
       },
       {
         "label": "D",
-        "text": "Personalized advertising"
+        "text": "Working memory"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 5.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Memory of one\u2019s first college lecture is an example of episodic memory because it involves recall of a personal experience tied to a specific context. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory structures: Long term Memory NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w5_q10_e7072f",
+    "week": 5
   },
   {
-    "id": "w6_q1",
-    "week": 6,
     "questionNumber": 1,
-    "questionText": "When a brand manager converts an idea into an advertisement slogan, this step is called:",
+    "questionText": "According to the notion of cognitive economy, a characteristic like \u201chas wings\u201d would be stored along with which of the following semantic memory nodes.",
     "options": [
       {
         "label": "A",
-        "text": "Feedback"
+        "text": "Bird"
       },
       {
         "label": "B",
-        "text": "Encoding"
+        "text": "Ostrich"
       },
       {
         "label": "C",
-        "text": "Decoding"
+        "text": "Hummingbird"
       },
       {
         "label": "D",
-        "text": "Channel selection"
+        "text": "All of the above"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Bird, because according to cognitive economy, characteristic features are stored at the highest applicable level in the hierarchy. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q1_8f6b58",
+    "week": 6
   },
   {
-    "id": "w6_q2",
-    "week": 6,
     "questionNumber": 2,
-    "questionText": "The study of signs and symbols and how they convey meaning in communication is called:",
+    "questionText": "Priming in lexical decision tasks may be explained by the idea of:",
     "options": [
       {
         "label": "A",
-        "text": "Syntax"
+        "text": "Episodic memory"
+      },
+      {
+        "label": "B",
+        "text": "Encoding specificity"
+      },
+      {
+        "label": "C",
+        "text": "Spreading activation"
+      },
+      {
+        "label": "D",
+        "text": "Typicality effects"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Spreading activation, because priming occurs when activation spreads through related nodes in semantic memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q2_85e460",
+    "week": 6
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "Which of the following is a good example of a superordinate level of categorization?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fruit"
+      },
+      {
+        "label": "B",
+        "text": "Banana"
+      },
+      {
+        "label": "C",
+        "text": "Fuji apple"
+      },
+      {
+        "label": "D",
+        "text": "Golden delicious apple"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Fruit, because it represents the superordinate level in the hierarchical organization of concepts. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q3_fa1a74",
+    "week": 6
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "The schema view of concept formation assumes that:",
+    "options": [
+      {
+        "label": "A",
+        "text": "There are clear boundaries among individual schemata"
+      },
+      {
+        "label": "B",
+        "text": "There is cognitive economy among concepts"
+      },
+      {
+        "label": "C",
+        "text": "Information is abstracted across instances"
+      },
+      {
+        "label": "D",
+        "text": "No information is stored about actual instances"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Information is abstracted across instances, because the schema view assumes general patterns are formed from multiple experiences. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q4_80cd28",
+    "week": 6
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "According to research by Collins and Quillian, the statement \u201cSiamese cats have blue eyes\u201d will be verified:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Slower than \u201cSiamese cats give birth to live young\u201d"
+      },
+      {
+        "label": "B",
+        "text": "Faster than \u201cSiamese cats give birth to live young\u201d"
+      },
+      {
+        "label": "C",
+        "text": "In the same amount of time as \u201cSiamese cats give birth to live young\u201d"
+      },
+      {
+        "label": "D",
+        "text": "Slower than \u201cSiamese cats have tails\u201d"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Slower than \u201cSiamese cats give birth to live young\u201d, because verifying subordinate-category properties requires additional hierarchical processing. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q5_e902b6",
+    "week": 6
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "Conrad has found evidence that the statement \u201cA shark can move\u201d can be verified in the same amount of time as \u201cAn animal can move.\u201d\u00a0 These results suggest that reaction time is best predicted by:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cognitive economy"
+      },
+      {
+        "label": "B",
+        "text": "Frequency of associations"
+      },
+      {
+        "label": "C",
+        "text": "Encoding specificity"
+      },
+      {
+        "label": "D",
+        "text": "Episodic memory"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Frequency of associations, because reaction time is better predicted by associative strength than strict hierarchical distance. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q6_f2d4a8",
+    "week": 6
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "Which of the following would be a part of your declarative memory system?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Knowing how to ride a bicycle"
+      },
+      {
+        "label": "B",
+        "text": "Knowing how to drive a car"
+      },
+      {
+        "label": "C",
+        "text": "Knowing how to react a red light"
+      },
+      {
+        "label": "D",
+        "text": "Being able to name a hybrid car"
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Being able to name a hybrid car, because declarative memory involves consciously accessible factual knowledge. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q7_a91613",
+    "week": 6
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "Collins and Loftus\u2019s spreading activation theory differs from the hierarchical network theory in that:",
+    "options": [
+      {
+        "label": "A",
+        "text": "It dispenses with the idea of cognitive economy"
+      },
+      {
+        "label": "B",
+        "text": "It relies on the assumption of hierarchical structure"
+      },
+      {
+        "label": "C",
+        "text": "It cannot account for the typicality effect"
+      },
+      {
+        "label": "D",
+        "text": "It makes stronger predictions than hierarchical models"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "It dispenses with the idea of cognitive economy, because the spreading activation model does not rely on strict hierarchical storage. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q8_70f6a7",
+    "week": 6
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "\u201cCharacteristic features\u201d and \u201cfamily resemblance\u201d are important aspects of the _________ view of concepts.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Classical"
+      },
+      {
+        "label": "B",
+        "text": "Prototype"
+      },
+      {
+        "label": "C",
+        "text": "Exemplar"
+      },
+      {
+        "label": "D",
+        "text": "Schema"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Prototype, because characteristic features and family resemblance define the prototype view of concepts. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory",
+    "needsReview": false,
+    "id": "w6_q9_105aad",
+    "week": 6
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "Studies of semantic memory have shown that in a lexical decision task, people are faster at responding to the stimulus \u201cbread\u201d if it is paired with a stimulus such as:",
+    "options": [
+      {
+        "label": "A",
+        "text": "\u201crencle\u201d"
+      },
+      {
+        "label": "B",
+        "text": "\u201cdog\u201d"
+      },
+      {
+        "label": "C",
+        "text": "\u201cisland\u201d"
+      },
+      {
+        "label": "D",
+        "text": "\u201cbutter\u201d"
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "\u201cButter,\u201d because semantically related words facilitate faster lexical decisions through spreading activation. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part II Basic Cognitive Processes: Memory processes: Semantic Memory NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w6_q10_db8541",
+    "week": 6
+  },
+  {
+    "questionNumber": 1,
+    "questionText": "According to the ______ view of concepts, people categorize new instances by comparing them to representations of previously stored instances.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Classical"
+      },
+      {
+        "label": "B",
+        "text": "Prototype"
+      },
+      {
+        "label": "C",
+        "text": "Exemplar"
+      },
+      {
+        "label": "D",
+        "text": "Schema"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Exemplar view, because new instances are categorized by comparing them to stored examples in memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q1_8d07ed",
+    "week": 7
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "According to the typicality effect, the statement \u201cA dog is a household pet\u201d should be verified:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Faster than \u201ca poodle is a household pet\u201d"
+      },
+      {
+        "label": "B",
+        "text": "Faster than \u201ca dog is a living thing\u201d"
+      },
+      {
+        "label": "C",
+        "text": "Faster than \u201ca ferret is a household pet\u201d"
+      },
+      {
+        "label": "D",
+        "text": "Faster than \u201ca dog is an animal\u201d"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Faster than \u201ca ferret is a household pet\u201d, because typical category members are verified more quickly than less typical ones (typicality effect). Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q2_1fc77d",
+    "week": 7
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "Which of the following would be considered an example of a \u201cnatural kind\u201d concept?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Blue"
+      },
+      {
+        "label": "B",
+        "text": "Wolf"
+      },
+      {
+        "label": "C",
+        "text": "Odd number"
+      },
+      {
+        "label": "D",
+        "text": "Mirror"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Wolf, because natural kind concepts refer to naturally occurring categories found in the biological world. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q3_346998",
+    "week": 7
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "A schema for a routine event, such as going to the dentist, is called a:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Concept"
+      },
+      {
+        "label": "B",
+        "text": "Script"
+      },
+      {
+        "label": "C",
+        "text": "Exemplar"
+      },
+      {
+        "label": "D",
+        "text": "Category"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Script, because a script is a schema representing the typical sequence of events in a routine situation. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q4_c60cdc",
+    "week": 7
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "A ________ is a mental representation of some object, event, or pattern.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Category"
+      },
+      {
+        "label": "B",
+        "text": "Concept"
+      },
+      {
+        "label": "C",
+        "text": "Script"
+      },
+      {
+        "label": "D",
+        "text": "Memory"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Concept, because a concept is a mental representation of an object, event, or idea. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q5_78d215",
+    "week": 7
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "A ______ can be defined as a class of similar things that share either an essential core, or some similarity in perceptual, biological, or functional properties.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Category"
+      },
+      {
+        "label": "B",
+        "text": "Concept"
+      },
+      {
+        "label": "C",
+        "text": "Script"
+      },
+      {
+        "label": "D",
+        "text": "Schema"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Category, because a category is a class of similar items sharing core or overlapping features. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q6_dca8a3",
+    "week": 7
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "Which of the following is NOT TRUE of the classical view of concepts?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It proposes that concepts are mentally represented by list of features."
+      },
+      {
+        "label": "B",
+        "text": "It assumes that membership in a category is clear-cut."
+      },
+      {
+        "label": "C",
+        "text": "It accurately predicts the typicality effect."
+      },
+      {
+        "label": "D",
+        "text": "\u2018Necessity\u2019 and \u2018sufficient\u2019 features play an important role in the theory."
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "The statement that the classical view accurately predicts the typicality effect is false, because the classical model assumes clear-cut category boundaries. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q7_bc0e14",
+    "week": 7
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "Which of the following is a good example of a basic level of categorization?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Musical instrument"
+      },
+      {
+        "label": "B",
+        "text": "Piano"
+      },
+      {
+        "label": "C",
+        "text": "Electronic keyboard"
+      },
+      {
+        "label": "D",
+        "text": "String instrument"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Piano, because the basic level is the most cognitively efficient and commonly used level of categorization. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q8_8beddf",
+    "week": 7
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "If \u201csoda\u201d is a basic-level category, then ______ would be a subordinate level.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Soft drink"
+      },
+      {
+        "label": "B",
+        "text": "Beverage"
+      },
+      {
+        "label": "C",
+        "text": "Drink"
+      },
+      {
+        "label": "D",
+        "text": "Coca-Cola"
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Coca-Cola, because subordinate categories are more specific instances within a basic-level category. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization.",
+    "needsReview": false,
+    "id": "w7_q9_19af6d",
+    "week": 7
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "The ______ view of concepts argues that a person uses his/her theories about the way the world works to justify the classification of instances in the same category.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Classical"
+      },
+      {
+        "label": "B",
+        "text": "Prototype"
+      },
+      {
+        "label": "C",
+        "text": "Knowledge based"
+      },
+      {
+        "label": "D",
+        "text": "Schema"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Knowledge-based view, because it argues that categorization depends on a person\u2019s theories about how the world works. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Concepts and Categorization. NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w7_q10_868b03",
+    "week": 7
+  },
+  {
+    "questionNumber": 1,
+    "questionText": "Participants doing mental imagery tasks tend to show brain activity in the:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Temporal lobe"
+      },
+      {
+        "label": "B",
+        "text": "Parietal lobe"
+      },
+      {
+        "label": "C",
+        "text": "Frontal lobe"
+      },
+      {
+        "label": "D",
+        "text": "Occipital lobe"
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Occipital lobe, because mental imagery activates brain areas involved in visual processing Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q1_508033",
+    "week": 8
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "How do people represent and navigate in and through space? This is a question of",
+    "options": [
+      {
+        "label": "A",
+        "text": "Navigational cognition"
+      },
+      {
+        "label": "B",
+        "text": "Representational cognition"
+      },
+      {
+        "label": "C",
+        "text": "Spatial cognition"
+      },
+      {
+        "label": "D",
+        "text": "Visual cognition"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Spatial cognition, because it refers to how people represent and navigate through space. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q2_9bdd3c",
+    "week": 8
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "Images can prime the visual pathway, making it easier to detect a faint stimulus. This is an example of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perceptual equivalence"
+      },
+      {
+        "label": "B",
+        "text": "Spatial equivalence"
+      },
+      {
+        "label": "C",
+        "text": "Structural equivalence"
+      },
+      {
+        "label": "D",
+        "text": "Transformational equivalence"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Perceptual equivalence, because mental images can activate the same perceptual systems as actual visual stimuli. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition",
+    "needsReview": false,
+    "id": "w8_q3_5ba539",
+    "week": 8
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "Which of the following questions would take you the LONGEST TIME to answer?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Which is faster, a turtle or a sports car?"
+      },
+      {
+        "label": "B",
+        "text": "Which is faster, a turtle or a cheetah?"
+      },
+      {
+        "label": "C",
+        "text": "Which is faster, a turtle or a caterpillar?"
+      },
+      {
+        "label": "D",
+        "text": "Which is faster, a caterpillar or a cat?"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Which is faster, a turtle or a caterpillar? because comparisons between similar items take longer in mental imagery tasks. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q4_66f011",
+    "week": 8
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "The relational-organizational hypothesis is supported by:",
+    "options": [
+      {
+        "label": "A",
+        "text": "The effectiveness of the method of loci"
+      },
+      {
+        "label": "B",
+        "text": "The fact that concrete words are recalled better than abstract words"
+      },
+      {
+        "label": "C",
+        "text": "The fact that non-interactive images do not facilitate recall whereas interactive images do facilitate recall"
+      },
+      {
+        "label": "D",
+        "text": "The effectiveness of the pegword method"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "The fact that non-interactive images do not facilitate recall whereas interactive images do facilitate recall, because organizing items into meaningful relations improves memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q5_a8b274",
+    "week": 8
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "Paivio\u2019s ____ hypothesis argues that long-term memory contains two separate systems that represent information in verbal and visual forms, respectively.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Picture-word"
+      },
+      {
+        "label": "B",
+        "text": "Dual code"
+      },
+      {
+        "label": "C",
+        "text": "Visuo-verbal"
+      },
+      {
+        "label": "D",
+        "text": "Relational-Organizational"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Dual code, because Paivio proposed two separate but interconnected verbal and visual memory systems. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q6_e6dd7d",
+    "week": 8
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "Which of the following methods would most help you to remember the word pair \u201celephant-cigar\u201d?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Repeating the word elephant over and over while visualizing a cigar"
+      },
+      {
+        "label": "B",
+        "text": "Visualizing an elephant smoking a cigar"
+      },
+      {
+        "label": "C",
+        "text": "Repeating both words over and over to yourself"
+      },
+      {
+        "label": "D",
+        "text": "Visualizing an elephant and a cigar, not touching each other"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Visualizing an elephant smoking a cigar, because interactive imagery strengthens associative memory. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q7_fde7d4",
+    "week": 8
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "Your mental map of your campus is probably:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Larger than reality"
+      },
+      {
+        "label": "B",
+        "text": "Smaller than reality"
+      },
+      {
+        "label": "C",
+        "text": "More regular, with more straight lines and right angles, than reality"
+      },
+      {
+        "label": "D",
+        "text": "Less regular, with fewer straight lines and right angles, than reality"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "More regular, with more straight lines and right angles, than reality, because cognitive maps tend to be systematically distorted. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q8_c36550",
+    "week": 8
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "Finke\u2019s principle of _____ states that mental imagery allows us to retrieve information that was not intentionally stored.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Perceptual equivalence"
+      },
+      {
+        "label": "B",
+        "text": "Transformational equivalence"
+      },
+      {
+        "label": "C",
+        "text": "Implicit encoding"
+      },
+      {
+        "label": "D",
+        "text": "Structural encoding"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Implicit encoding, because mental imagery allows retrieval of information not intentionally stored. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition.",
+    "needsReview": false,
+    "id": "w8_q9_a5fac4",
+    "week": 8
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "A propositional representation is thought to be ______ in nature.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Verbal"
+      },
+      {
+        "label": "B",
+        "text": "Visual"
+      },
+      {
+        "label": "C",
+        "text": "Both verbal and visual"
+      },
+      {
+        "label": "D",
+        "text": "Neither verbal nor visual"
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Neither verbal nor visual, because propositional representations are abstract and language-like but not sensory in form. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Visual imagery and spatial cognition. NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w8_q10_90de35",
+    "week": 8
+  },
+  {
+    "questionNumber": 1,
+    "questionText": "Which of the following is/are generally agreed upon as necessary criteria/criterion for claiming that a communication system is a language?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Regularity"
+      },
+      {
+        "label": "B",
+        "text": "Productivity"
+      },
+      {
+        "label": "C",
+        "text": "Referentiality"
+      },
+      {
+        "label": "D",
+        "text": "Both regularity and productivity"
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "Both regularity and productivity, because language follows systematic rules and allows speakers to produce unlimited new sentences. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q1_1fef3d",
+    "week": 9
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "Infinite combinations of ideas can be expressed in language.\u00a0 In other words, language is:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Regular"
+      },
+      {
+        "label": "B",
+        "text": "Interpersonal"
+      },
+      {
+        "label": "C",
+        "text": "Productive"
+      },
+      {
+        "label": "D",
+        "text": "Referential"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "Productive, because language enables the expression of an infinite number of ideas using a finite set of symbols. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge:  Language",
+    "needsReview": false,
+    "id": "w9_q2_b221a2",
+    "week": 9
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "A fundamental problem of speech perception, according to Miller, is that:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Speech is discrete rather than continuous"
+      },
+      {
+        "label": "B",
+        "text": "A single phoneme sounds different depending on its context"
+      },
+      {
+        "label": "C",
+        "text": "Hearing is a less accurate rather than vision"
+      },
+      {
+        "label": "D",
+        "text": "Missing phonemes can render words incomprehensible"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "A single phoneme sounds different depending on its context, which creates difficulty in speech perception. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge:  Language",
+    "needsReview": false,
+    "id": "w9_q3_5087d6",
+    "week": 9
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "The branch of linguistics devoted to the study of meaning:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phonetics"
       },
       {
         "label": "B",
@@ -1498,2129 +2420,1063 @@
       },
       {
         "label": "C",
-        "text": "Semiotics"
+        "text": "Morphology"
       },
       {
         "label": "D",
-        "text": "Sociology"
+        "text": "Pragmatics"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
-  },
-  {
-    "id": "w6_q3",
-    "week": 6,
-    "questionNumber": 3,
-    "questionText": "The ASICS \u201cBefore and After\u201d campaign was designed to emphasize which key idea?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Physical transformation after workouts"
-      },
-      {
-        "label": "B",
-        "text": "Mental and emotional benefits of physical activity"
-      },
-      {
-        "label": "C",
-        "text": "Weight loss outcomes"
-      },
-      {
-        "label": "D",
-        "text": "Competitive athletic performance"
-      }
+    "correctAnswer": [
+      "B"
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "explanation": "Semantics, because it is the branch of linguistics that studies the meaning of words and sentences. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q4_6bc080",
+    "week": 9
   },
   {
-    "id": "w6_q4",
-    "week": 6,
-    "questionNumber": 4,
-    "questionText": "A marketing team places logos on shopping centre floors and uses branded projections on the sides of buildings. This use of \"unusual external media to gain impact and publicity\" is a media choice known as:",
-    "options": [
-      {
-        "label": "A",
-        "text": "Ambient media"
-      },
-      {
-        "label": "B",
-        "text": "Product placement"
-      },
-      {
-        "label": "C",
-        "text": "Website referrals"
-      },
-      {
-        "label": "D",
-        "text": "Corporate events"
-      }
-    ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
-  },
-  {
-    "id": "w6_q5",
-    "week": 6,
     "questionNumber": 5,
-    "questionText": "In direct marketing, the absence of marketing middlemen highlights which feature?",
+    "questionText": "Did she say \u201cmany\u201d or \u201cmen knee\u201d? This type of ambiguity is referred to as:",
     "options": [
       {
         "label": "A",
-        "text": "Personalized communication"
+        "text": "Phonetic"
       },
       {
         "label": "B",
-        "text": "Intermediary-led promotion"
+        "text": "Lexical"
       },
       {
         "label": "C",
-        "text": "High channel conflict"
+        "text": "Syntactic"
       },
       {
         "label": "D",
-        "text": "Reduced customer interaction"
+        "text": "Semantic"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Phonetic ambiguity, because the same sound pattern can be interpreted as different words or phrases. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q5_b50e6c",
+    "week": 9
   },
   {
-    "id": "w6_q6",
-    "week": 6,
     "questionNumber": 6,
-    "questionText": "When a company uses a call centre to reach potential customers and take orders, it is engaged in:",
+    "questionText": "The underlying knowledge that allows people to produce and comprehend their language is called:",
     "options": [
       {
         "label": "A",
-        "text": "Mobile Marketing"
+        "text": "Linguistic performance"
       },
       {
         "label": "B",
-        "text": "Telemarketing"
+        "text": "Linguistic competence"
       },
       {
         "label": "C",
-        "text": "E-commerce"
+        "text": "Linguistic production"
       },
       {
         "label": "D",
-        "text": "Direct Selling"
+        "text": "Grammatical behaviour"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 1,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "Linguistic competence, because it refers to the underlying knowledge of language that allows people to produce and understand sentences. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q6_d0d77c",
+    "week": 9
   },
   {
-    "id": "w6_q7",
-    "week": 6,
     "questionNumber": 7,
-    "questionText": "Which among the following is not a form of non-store retailing?",
+    "questionText": "The study of the ways in which sounds can be combined in any given language is called:",
     "options": [
       {
         "label": "A",
-        "text": "E-commerce"
+        "text": "Phonology"
       },
       {
         "label": "B",
-        "text": "Automatic vending"
+        "text": "Morphology"
       },
       {
         "label": "C",
-        "text": "Department store"
+        "text": "Syntax"
       },
       {
         "label": "D",
-        "text": "Direct selling"
+        "text": "Grammar"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Phonology, because it studies the rules governing how sounds are combined in a language. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q7_a63075",
+    "week": 9
   },
   {
-    "id": "w6_q8",
-    "week": 6,
     "questionNumber": 8,
-    "questionText": "Nestl\u00e9\u2019s \u201cKit Kat Chunky\u201d campaign used letters that looked like missed delivery notes. This is an example of which form of marketing?",
+    "questionText": "We notice ambiguities in sentences:",
     "options": [
       {
         "label": "A",
-        "text": "Public Relations"
+        "text": "All the time"
       },
       {
         "label": "B",
-        "text": "Direct Marketing"
+        "text": "In \u201cgarden path\u201d sentences"
       },
       {
         "label": "C",
-        "text": "Trade Promotion"
+        "text": "When they are humorous"
       },
       {
         "label": "D",
-        "text": "Retail Advertising"
+        "text": "When they make no sense at all"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "In \u201cgarden path\u201d sentences, because such sentences initially lead readers toward an incorrect interpretation Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q8_68895f",
+    "week": 9
   },
   {
-    "id": "w6_q9",
-    "week": 6,
     "questionNumber": 9,
-    "questionText": "Decathlon\u2019s use of RFID (Radio Frequency Identification) technology to track inventory and assist checkout primarily enhances which component of the marketing mix?",
+    "questionText": "According to research, which of the following sets of sentences would take the longest amount of time to read and comprehend?",
     "options": [
       {
         "label": "A",
-        "text": "Product"
+        "text": "We took the dog to the vet. The dog was nervous."
       },
       {
         "label": "B",
-        "text": "Price"
+        "text": "Sara drove the car to the market. The car ran out of gas."
       },
       {
         "label": "C",
-        "text": "Place (Distribution)"
+        "text": "She wrapped the Christmas presents. The sweater needed a larger box."
       },
       {
         "label": "D",
-        "text": "Promotion"
+        "text": "We got some beer out of the car. The beer was warm."
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "She wrapped the Christmas presents. The sweater needed a larger box, because the connection between the sentences requires additional inference. Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language",
+    "needsReview": false,
+    "id": "w9_q9_0ef9ab",
+    "week": 9
   },
   {
-    "id": "w6_q10",
-    "week": 6,
     "questionNumber": 10,
-    "questionText": "The effectiveness of a creative message in marketing communication largely depends on:",
+    "questionText": "Speech acts in which the utterance itself is the action\u2014such as \u201cYou\u2019re fired!\u201d\u2014are considered to be which type of speech act?",
     "options": [
       {
         "label": "A",
-        "text": "The price of the product"
+        "text": "Declaration"
       },
       {
         "label": "B",
-        "text": "The number of competitors"
+        "text": "Directive"
       },
       {
         "label": "C",
-        "text": "The choice of methods and media used to deliver it"
+        "text": "Commissive"
       },
       {
         "label": "D",
-        "text": "The production cost of the advertisement"
+        "text": "Expressive"
       }
     ],
-    "correctAnswer": [],
-    "sourcePdf": "Week 6.pdf",
-    "sourcePage": 2,
-    "confidence": "low",
-    "needsReview": true
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "Declaration, because the utterance itself performs the action, such as saying \u201cYou\u2019re fired.\u201d Refer to: Galotti (Cognitive Psychology: In and out of the laboratory),), Part III Representation and Organization of Knowledge: Language NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati NPTEL Online Certification Course <COURSE NAME> <Assignment Number>: Detailed Solution Indian Institute of Technology Guwahati",
+    "needsReview": false,
+    "id": "w9_q10_664009",
+    "week": 9
   },
   {
-    "id": "w7_q1",
-    "week": 7,
     "questionNumber": 1,
-    "questionText": "Which of the following are major tools used in consumer sales promotion?",
+    "questionText": "_____ is defined as 'going beyond the information given.'",
     "options": [
       {
         "label": "A",
-        "text": "Frequency Programs"
+        "text": "Problem-solving"
       },
       {
         "label": "B",
-        "text": "Patronage Awards"
+        "text": "Thinking"
       },
       {
         "label": "C",
-        "text": "Conventions"
+        "text": "Decision making"
       },
       {
         "label": "D",
-        "text": "Coupons"
-      },
-      {
-        "label": "E",
-        "text": "Trade Shows"
-      }
-    ],
-    "correctAnswer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w7_q2",
-    "week": 7,
-    "questionNumber": 2,
-    "questionText": "_____________________ is the process of dealing with legislators and government officials to promote or defeat legislation and regulations.",
-    "options": [
-      {
-        "label": "A",
-        "text": "Press Relations"
-      },
-      {
-        "label": "B",
-        "text": "Product Publicity"
-      },
-      {
-        "label": "C",
-        "text": "Counseling"
-      },
-      {
-        "label": "D",
-        "text": "Lobbying"
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w7_q3",
-    "week": 7,
-    "questionNumber": 3,
-    "questionText": "As a part of spreading their commitment to sustainability, Patagonia launched a campaign in 2011, by featuring a full-page ad in The New York Times, showing the picture of their best-selling jacket with the campaign tagline ___________________.",
-    "options": [
-      {
-        "label": "A",
-        "text": "Don\u2019t Buy This Jacket"
-      },
-      {
-        "label": "B",
-        "text": "Go Buy This Jacket"
-      },
-      {
-        "label": "C",
-        "text": "The Greenest Jacket"
-      },
-      {
-        "label": "D",
-        "text": "The Only Jacket to Buy"
-      }
-    ],
-    "correctAnswer": [
-      "A"
-    ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w7_q4",
-    "week": 7,
-    "questionNumber": 4,
-    "questionText": "According to American Marketing Association, _________________ is the placement of announcements and messages in time or space by business firms, nonprofit organizations, government agencies, and individuals who seek to inform and/or persuade members of a particular target market or audience regarding their products, services, organizations or ideas.",
-    "options": [
-      {
-        "label": "A",
-        "text": "Public Relations"
-      },
-      {
-        "label": "B",
-        "text": "Advertisement"
-      },
-      {
-        "label": "C",
-        "text": "Trade promotions"
-      },
-      {
-        "label": "D",
-        "text": "Sales Promotions"
+        "text": "Remembering"
       }
     ],
     "correctAnswer": [
       "B"
     ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q1_27f6e6",
+    "week": 10
   },
   {
-    "id": "w7_q5",
-    "week": 7,
+    "questionNumber": 2,
+    "questionText": "Which of the following is an example of an ill-defined problem?",
+    "options": [
+      {
+        "label": "A",
+        "text": "putting together your schedule of classes for next semester"
+      },
+      {
+        "label": "B",
+        "text": "constructing a proof in geometry"
+      },
+      {
+        "label": "C",
+        "text": "solving an algebra problem"
+      },
+      {
+        "label": "D",
+        "text": "solving the Tower of Hanoi problem"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q2_b73805",
+    "week": 10
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "The problem-solving technique of _____ involves comparing the goal with the starting point, thinking of possible ways to overcome the distance between them, and choosing the best one.",
+    "options": [
+      {
+        "label": "A",
+        "text": "generate-and-test"
+      },
+      {
+        "label": "B",
+        "text": "means-end analysis"
+      },
+      {
+        "label": "C",
+        "text": "reasoning by analogy"
+      },
+      {
+        "label": "D",
+        "text": "mental set"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q3_7613a1",
+    "week": 10
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "Mental set:",
+    "options": [
+      {
+        "label": "A",
+        "text": "can only be induced by large amounts of practice"
+      },
+      {
+        "label": "B",
+        "text": "can lead us to make unwarranted assumptions about a problem"
+      },
+      {
+        "label": "C",
+        "text": "involves the use of analogy to solve a problem"
+      },
+      {
+        "label": "D",
+        "text": "aids problem solving because it supplies an efficient problem representation"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q4_acd8ef",
+    "week": 10
+  },
+  {
     "questionNumber": 5,
-    "questionText": "What does SEO stand for in the context of Digital Marketing?",
+    "questionText": "When one recalls the solution to an old problem and uses it to solve a new, similarly structured problem, one has reasoned by:",
     "options": [
       {
         "label": "A",
-        "text": "Superior Engine Optimization"
+        "text": "introspection"
       },
       {
         "label": "B",
-        "text": "Searching Efficiency Optimization"
+        "text": "analysis"
       },
       {
         "label": "C",
-        "text": "Search Engine Optimization"
+        "text": "analogy"
       },
       {
         "label": "D",
-        "text": "Superior Efficiency Optimization"
+        "text": "backtracking"
       }
     ],
     "correctAnswer": [
       "C"
     ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q5_9b2c1f",
+    "week": 10
   },
   {
-    "id": "w7_q6",
-    "week": 7,
     "questionNumber": 6,
-    "questionText": "Name the campaign launched by Spotify to showcase their ability to target consumers effectively and, in turn, helped in their year-over-year growth.",
+    "questionText": "_____ is a very important technique for solving the Towers of Hanoi problem.",
     "options": [
       {
         "label": "A",
-        "text": "A Song for Every CEO"
+        "text": "Mean-end analysis"
       },
       {
         "label": "B",
-        "text": "A Song for Every CFO"
+        "text": "Generate-and-test"
       },
       {
         "label": "C",
-        "text": "A Song for Every User"
+        "text": "Working backward"
       },
       {
         "label": "D",
-        "text": "A Song for Every CMO"
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w7_q7",
-    "week": 7,
-    "questionNumber": 7,
-    "questionText": "Which of the following best describes Affiliate Marketing?",
-    "options": [
-      {
-        "label": "A",
-        "text": "It is a performance-based exercise that enables revenue sharing and pay-per- sale (PPS) compensation within a common network."
-      },
-      {
-        "label": "B",
-        "text": "It refers to the publishing and distribution of text, video or audio materials to customers online."
-      },
-      {
-        "label": "C",
-        "text": "It involves blending marketing materials into a medium, making the underlying message and marketing purposes equally important."
-      },
-      {
-        "label": "D",
-        "text": "It is an online method for advertising where a business only pays for its ads when a person clicks on them."
-      }
-    ],
-    "correctAnswer": [
-      "A"
-    ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w7_q8",
-    "week": 7,
-    "questionNumber": 8,
-    "questionText": "_________________ is the association of all the stakeholders involved rather than just creating a product.",
-    "options": [
-      {
-        "label": "A",
-        "text": "Co-creation of Value"
-      },
-      {
-        "label": "B",
-        "text": "Co-creation of Price"
-      },
-      {
-        "label": "C",
-        "text": "Co-creation of Revenue"
-      },
-      {
-        "label": "D",
-        "text": "Co-creation of Profit"
-      }
-    ],
-    "correctAnswer": [
-      "A"
-    ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w7_q9",
-    "week": 7,
-    "questionNumber": 9,
-    "questionText": "Which ITC brand launched the \u201cHar Dil Ki Fantasy\u201d campaign featuring Shah Rukh Khan, utilizing Artificial Intelligence and social media for their promotion?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Sunfeast Yippee"
-      },
-      {
-        "label": "B",
-        "text": "Bingo"
-      },
-      {
-        "label": "C",
-        "text": "Sunfeast Dark Fantasy"
-      },
-      {
-        "label": "D",
-        "text": "B Natural"
+        "text": "Trial and error"
       }
     ],
     "correctAnswer": [
       "C"
     ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q6_484f65",
+    "week": 10
   },
   {
-    "id": "w7_q10",
-    "week": 7,
-    "questionNumber": 10,
-    "questionText": "_____________ is an online method for advertising where a business only pays for its ads when a person clicks on them.",
+    "questionNumber": 7,
+    "questionText": "Which of the following is the best example of a well-defined problem?",
     "options": [
       {
         "label": "A",
-        "text": "CPM (Cost-per-Thousand-Impressions)"
+        "text": "creating a guest list for a party"
       },
       {
         "label": "B",
-        "text": "CPL (Cost-per-Lead)"
+        "text": "finding a detour around a traffic problem"
       },
       {
         "label": "C",
-        "text": "PPS (Pay-per-Scale)"
+        "text": "constructing a proof in algebra"
       },
       {
         "label": "D",
-        "text": "PPC (Pay-per-Click)"
+        "text": "writing a paper for your cognition class"
       }
     ],
     "correctAnswer": [
-      "D"
+      "C"
     ],
-    "sourcePdf": "Week 7.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q7_765720",
+    "week": 10
   },
   {
-    "id": "w8_q1",
-    "week": 8,
+    "questionNumber": 8,
+    "questionText": "Psychologists focus on well-defined problems because:",
+    "options": [
+      {
+        "label": "A",
+        "text": "they are easy to present."
+      },
+      {
+        "label": "B",
+        "text": "they often take weeks or months to solve."
+      },
+      {
+        "label": "C",
+        "text": "they can be complicated to score."
+      },
+      {
+        "label": "D",
+        "text": "they accurately mirror real-world problems."
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q8_27827a",
+    "week": 10
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "Adoption of a rigid mental set toward an object is called:",
+    "options": [
+      {
+        "label": "A",
+        "text": "well-defined thinking"
+      },
+      {
+        "label": "B",
+        "text": "ill-defined thinking"
+      },
+      {
+        "label": "C",
+        "text": "functional fixedness"
+      },
+      {
+        "label": "D",
+        "text": "object set"
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q9_ed19ee",
+    "week": 10
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "The General Problem Solver (GPS) is a computer program that solves problems in crypt arithmetic and logic using:",
+    "options": [
+      {
+        "label": "A",
+        "text": "mean end analysis"
+      },
+      {
+        "label": "B",
+        "text": "generate-and-test"
+      },
+      {
+        "label": "C",
+        "text": "reasoning by analogy"
+      },
+      {
+        "label": "D",
+        "text": "introspection"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w10_q10_8ebd61",
+    "week": 10
+  },
+  {
     "questionNumber": 1,
-    "questionText": "___________ is a public service, non-profit organization seeking to provide solutions, services, and security to millions of India's rural migrant workers.",
+    "questionText": "Deductive reasoning involves which of the following?",
     "options": [
       {
         "label": "A",
-        "text": "UIDAI Aadhar"
+        "text": "going from general to specific statements"
       },
       {
         "label": "B",
-        "text": "Aajevika Bureau"
+        "text": "conclusions that add new information to what is given"
       },
       {
         "label": "C",
-        "text": "NITI Aayog"
+        "text": "going from specific to general statements"
       },
       {
         "label": "D",
-        "text": "Oxfam India"
+        "text": "going from specific to specific statements"
       }
     ],
     "correctAnswer": [
-      "B"
+      "A"
     ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q1_211fc7",
+    "week": 11
   },
   {
-    "id": "w8_q2",
-    "week": 8,
     "questionNumber": 2,
-    "questionText": "Which of the following statements about Airbnb and its influence on the hospitality sector is true?",
+    "questionText": "If a person has five letters in his or her name, then s/he is a Glirple. I can now validly assume that:",
     "options": [
       {
         "label": "A",
-        "text": "Airbnb has encouraged hotels to introduce greater customization and personalized guest experiences instead of relying only on standard operating procedures."
+        "text": "Shawn is a Glirple."
       },
       {
         "label": "B",
-        "text": "Airbnb has inspired new hotel concepts that emphasize unique design and high-quality food & beverage offerings, especially in budget hotels."
+        "text": "Shawn is a Glirple, and anyone who is not a Glirple cannot be named Susan."
       },
       {
         "label": "C",
-        "text": "Airbnb has led most hotels to eliminate personalization and return strictly to rigid standardized services"
+        "text": "anyone who is a Glirple must have five letters in his/her name."
       },
       {
         "label": "D",
-        "text": "Airbnb\u2019s influence includes the use of repurposed or existing buildings where the original function becomes part of the guest experience."
-      }
-    ],
-    "correctAnswer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w8_q3",
-    "week": 8,
-    "questionNumber": 3,
-    "questionText": "___________________ is part of the Diffusion phase of the innovation value chain.",
-    "options": [
-      {
-        "label": "A",
-        "text": "Idea Selection"
-      },
-      {
-        "label": "B",
-        "text": "Idea Development"
-      },
-      {
-        "label": "C",
-        "text": "Idea Spread"
-      },
-      {
-        "label": "D",
-        "text": "Idea Cross-Pollination"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w8_q4",
-    "week": 8,
-    "questionNumber": 4,
-    "questionText": "In the Innovation value chain, idea creation within a unit is known as ____________, while collaboration across unit is known as _____________________.",
-    "options": [
-      {
-        "label": "A",
-        "text": "In-House, External"
-      },
-      {
-        "label": "B",
-        "text": "External, In-House"
-      },
-      {
-        "label": "C",
-        "text": "Cross-Pollination, External"
-      },
-      {
-        "label": "D",
-        "text": "In-House, Cross-Pollination"
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w8_q5",
-    "week": 8,
-    "questionNumber": 5,
-    "questionText": "Which AI-powered virtual assistant is integrated into the Amazon Echo, a smart device introduced in 2014 by Amazon?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Alexa"
-      },
-      {
-        "label": "B",
-        "text": "Siri"
-      },
-      {
-        "label": "C",
-        "text": "Claude"
-      },
-      {
-        "label": "D",
-        "text": "ChatGPT"
-      }
-    ],
-    "correctAnswer": [
-      "A"
-    ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w8_q6",
-    "week": 8,
-    "questionNumber": 6,
-    "questionText": "A customer books a hotel room and asks for a room with free Wi-Fi. They also expect the room to be clean and comfortable, even though they did not explicitly mention it. In this situation, the customer\u2019s expectation that the room will be clean and comfortable is an example of which type of need?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Stated need"
-      },
-      {
-        "label": "B",
-        "text": "Real need"
-      },
-      {
-        "label": "C",
-        "text": "Unstated need"
-      },
-      {
-        "label": "D",
-        "text": "Delight need"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w8_q7",
-    "week": 8,
-    "questionNumber": 7,
-    "questionText": "A mechanical engineering professor from the University of Canterbury spent about 15 years researching and developing a safer trampoline design for his daughter. His invention, the Springfree Trampoline, uses flexible composite rods instead of traditional metal springs to reduce the risk of injuries. Who is this inventor?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Keith Alexander"
-      },
-      {
-        "label": "B",
-        "text": "John Hennessy"
-      },
-      {
-        "label": "C",
-        "text": "Dean Kamen"
-      },
-      {
-        "label": "D",
-        "text": "James Dyson"
-      }
-    ],
-    "correctAnswer": [
-      "A"
-    ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w8_q8",
-    "week": 8,
-    "questionNumber": 8,
-    "questionText": "Around 2010, insurance data in Sweden revealed that cyclists accounted for a higher proportion of road casualties than any other type of road user. This highlighted an unmet safety need, prompting Volvo to introduce innovations such as bike-detection sensors, automatic braking, and driver-alert systems. What was the unmet need identified by Volvo from this data?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Improving fuel efficiency in vehicles"
-      },
-      {
-        "label": "B",
-        "text": "Enhancing safety for cyclists and other road users on the road"
-      },
-      {
-        "label": "C",
-        "text": "Increasing the speed and performance of cars"
-      },
-      {
-        "label": "D",
-        "text": "Reducing the cost of vehicle manufacturing"
+        "text": "anyone who is not a Glirple cannot be named Susan."
       }
     ],
     "correctAnswer": [
       "B"
     ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q2_ae042e",
+    "week": 11
   },
   {
-    "id": "w8_q9",
-    "week": 8,
-    "questionNumber": 9,
-    "questionText": "Which company specializes in developing financial and accounting software for individuals and businesses, including products such as Quicken and QuickBooks?",
+    "questionNumber": 3,
+    "questionText": "When we assess probability by judging the ease with which relevant examples come to mind, we are using the heuristic of:",
     "options": [
       {
         "label": "A",
-        "text": "SAP"
+        "text": "representativeness"
       },
       {
         "label": "B",
-        "text": "Salesforce"
+        "text": "availability"
       },
       {
         "label": "C",
-        "text": "Workday"
+        "text": "framing"
       },
       {
         "label": "D",
-        "text": "Intuit"
+        "text": "hindsight"
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q3_fbc44e",
+    "week": 11
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "Which type of reasoning results in conclusions that contain new information?",
+    "options": [
+      {
+        "label": "A",
+        "text": "inductive reasoning"
+      },
+      {
+        "label": "B",
+        "text": "deductive reasoning"
+      },
+      {
+        "label": "C",
+        "text": "invalid reasoning"
+      },
+      {
+        "label": "D",
+        "text": "both inductive and deductive reasoning"
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q4_e27316",
+    "week": 11
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "If performed correctly, deductive reasoning can be said to have _____. This means that it is impossible for the premises to be true and the conclusion to be false.",
+    "options": [
+      {
+        "label": "A",
+        "text": "inductive strength"
+      },
+      {
+        "label": "B",
+        "text": "deductive strength"
+      },
+      {
+        "label": "C",
+        "text": "inductive validity"
+      },
+      {
+        "label": "D",
+        "text": "deductive validity"
       }
     ],
     "correctAnswer": [
       "D"
     ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q5_dff393",
+    "week": 11
   },
   {
-    "id": "w8_q10",
-    "week": 8,
-    "questionNumber": 10,
-    "questionText": "Which of the following statements are true about Carvaan?",
+    "questionNumber": 6,
+    "questionText": "If a person has five letters in his/her name, then s/he is a Glirple. Angie now reasons that Fred cannot possibly be a Glirple. Angie has:",
     "options": [
       {
         "label": "A",
-        "text": "It is a portable digital music player that has the appearance and feel of a vintage transistor radio but performs modern music player functions."
+        "text": "made a correct inference according to modus ponens."
       },
       {
         "label": "B",
-        "text": "The majority of customers buy a Carvaan unit in order to access the 5000 tracks that were handpicked after thorough research."
+        "text": "made a correct inference according to modus tollens."
       },
       {
         "label": "C",
-        "text": "Carvaan consistently conveys through its campaigns the importance of entertainment in the lives of the elderly and emphasizes the profound impact music can have on their ability to navigate through challenging circumstances."
+        "text": "committed the fallacy of denying the antecedent."
       },
       {
         "label": "D",
-        "text": "It does not contain any pre-loaded songs and hence require internet connection to work properly."
+        "text": "committed the fallacy of affirming the consequent."
       }
     ],
     "correctAnswer": [
-      "A",
-      "B",
       "C"
     ],
-    "sourcePdf": "Week 8.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q6_e90e85",
+    "week": 11
   },
   {
-    "id": "w9_q1",
-    "week": 9,
+    "questionNumber": 7,
+    "questionText": "When Wason\u2019s four-card task is replaced with an everyday problem about checking the identification of people who are drinking Coke and beer:",
+    "options": [
+      {
+        "label": "A",
+        "text": "people still neglect modus tollens in their responses."
+      },
+      {
+        "label": "B",
+        "text": "people turn over all four cards instead of the two that are necessary and sufficient"
+      },
+      {
+        "label": "C",
+        "text": "people turn over only one card instead of the two that are necessary and sufficient."
+      },
+      {
+        "label": "D",
+        "text": "about 75% of participants solve the problem correctly."
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q7_f5fd56",
+    "week": 11
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "Some members of the Jones family are tall. Some tall people play basketball. Which of the following is true?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Logically, some members of the Jones family play basketball."
+      },
+      {
+        "label": "B",
+        "text": "Logically, no members of the Jones family play basketball."
+      },
+      {
+        "label": "C",
+        "text": "Most people assume that some members of the Jones family play basketball."
+      },
+      {
+        "label": "D",
+        "text": "Most people assume that all members of the Jones family play basketball."
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q8_ce924c",
+    "week": 11
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "The ease of reasoning about an analogy depends on all of these factors EXCEPT:",
+    "options": [
+      {
+        "label": "A",
+        "text": "the difficulty of comprehending the individual terms in the analogy."
+      },
+      {
+        "label": "B",
+        "text": "the reasoner\u2019s knowledge about the individual terms."
+      },
+      {
+        "label": "C",
+        "text": "the difficulty of finding a relationship between the first two terms."
+      },
+      {
+        "label": "D",
+        "text": "the reasoner\u2019s amount of training in formal reasoning procedures."
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q9_8d1d29",
+    "week": 11
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "Which of the following is a difference between everyday reasoning and formal reasoning?",
+    "options": [
+      {
+        "label": "A",
+        "text": "In everyday reasoning, all premises are usually supplied."
+      },
+      {
+        "label": "B",
+        "text": "In everyday reasoning, there is typically one correct answer."
+      },
+      {
+        "label": "C",
+        "text": "In everyday reasoning, problems are solved as a means of achieving other goals."
+      },
+      {
+        "label": "D",
+        "text": "In formal reasoning, problems are not self-contained."
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w11_q10_20c16e",
+    "week": 11
+  },
+  {
     "questionNumber": 1,
-    "questionText": "Which marketing concept, as described by Beth Comstock (Vice Chair of GE), refers to an approach that continuously connects a company\u2019s offerings to markets and generates new energy around invention, particularly in innovation- driven organizations?",
+    "questionText": "The gambler's fallacy is thought of as a special instance of:",
     "options": [
       {
         "label": "A",
-        "text": "Relationship Marketing"
+        "text": "framing."
       },
       {
         "label": "B",
-        "text": "Integrated Marketing Communication"
+        "text": "availability."
       },
       {
         "label": "C",
-        "text": "Innovation Marketing"
+        "text": "belief in the law of small numbers."
       },
       {
         "label": "D",
-        "text": "Perpetual Motion Marketing"
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w9_q2",
-    "week": 9,
-    "questionNumber": 2,
-    "questionText": "Which Dabur-owned fruit juice brand successfully tackled initial consumer taste perception challenges by emphasizing natural ingredients and health benefits to establish itself in the Indian market?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Tropicana"
-      },
-      {
-        "label": "B",
-        "text": "Paper Boat"
-      },
-      {
-        "label": "C",
-        "text": "Real Juice"
-      },
-      {
-        "label": "D",
-        "text": "Minute Maid"
+        "text": "hindsight."
       }
     ],
     "correctAnswer": [
       "C"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q1_75a348",
+    "week": 12
   },
   {
-    "id": "w9_q3",
-    "week": 9,
-    "questionNumber": 3,
-    "questionText": "Nirmai\u2019s developing Thermalytix, Samsungs new foldable smartphones and Mitticool\u2019s clay refrigerators are all examples marketing innovations through _______.",
+    "questionNumber": 2,
+    "questionText": "You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you\u2019ve already invested so much time and effort in this problem. You have fallen victim to:",
     "options": [
       {
         "label": "A",
-        "text": "New product"
+        "text": "the sunk cost effect."
       },
       {
         "label": "B",
-        "text": "New usage"
+        "text": "a framing effect."
       },
       {
         "label": "C",
-        "text": "New perspective"
+        "text": "the anchor effect."
       },
       {
         "label": "D",
-        "text": "New service"
+        "text": "availability bias."
       }
     ],
     "correctAnswer": [
       "A"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q2_4b6a19",
+    "week": 12
   },
   {
-    "id": "w9_q4",
-    "week": 9,
-    "questionNumber": 4,
-    "questionText": "____________was initially developed as a refrigerant and as a coating to prevent corrosion on electrical wiring and was later repurposed and became most famous as a non-stick coating for cookware. It is an example of marketing of innovation through new usage.",
+    "questionNumber": 3,
+    "questionText": "Normative models of decision making describe:",
     "options": [
       {
         "label": "A",
-        "text": "Duct Tape"
+        "text": "how we ought to make decisions in realistic circumstances."
       },
       {
         "label": "B",
-        "text": "Teflon"
+        "text": "ideal performance under ideal circumstances."
       },
       {
         "label": "C",
-        "text": "Warfarin"
+        "text": "what people actually do when they make decisions."
       },
       {
         "label": "D",
-        "text": "Netmeds"
+        "text": "cognitive illusions."
       }
     ],
     "correctAnswer": [
       "B"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q3_55dde5",
+    "week": 12
   },
   {
-    "id": "w9_q5",
-    "week": 9,
-    "questionNumber": 5,
-    "questionText": "Who stated that \u201cThinking like a designer can transform the way you develop products, services, processes \u2013 and even strategy\u201d?",
+    "questionNumber": 4,
+    "questionText": "Past events seem \u201cinevitable\u201d due to the action of the:",
     "options": [
       {
         "label": "A",
-        "text": "Tim Brown"
+        "text": "framing effect."
       },
       {
         "label": "B",
-        "text": "Clayton Christensen"
+        "text": "hindsight bias."
       },
       {
         "label": "C",
-        "text": "Peter Drucker"
+        "text": "gambler's fallacy."
       },
       {
         "label": "D",
-        "text": "Thomas Lockwood"
+        "text": "availability heuristic."
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q4_cbfc47",
+    "week": 12
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "Anita is blonde, extremely attractive, and lives in an expensive condo. If we judge the probability of Anita\u2019s being a model as quite high because she resembles our stereotype of a model, we are using the heuristic of:",
+    "options": [
+      {
+        "label": "A",
+        "text": "representativeness."
+      },
+      {
+        "label": "B",
+        "text": "availability."
+      },
+      {
+        "label": "C",
+        "text": "framing."
+      },
+      {
+        "label": "D",
+        "text": "the law of small numbers."
       }
     ],
     "correctAnswer": [
       "A"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q5_ca900e",
+    "week": 12
   },
   {
-    "id": "w9_q6",
-    "week": 9,
     "questionNumber": 6,
-    "questionText": "Which of the following elements is a part of the GE formula for successful marketing of innovations?",
+    "questionText": "The mental activities that take place in choosing among alternatives are collectively called:",
     "options": [
       {
         "label": "A",
-        "text": "Go to new places."
+        "text": "problem solving."
       },
       {
         "label": "B",
-        "text": "Focus only on existing markets."
+        "text": "inductive reasoning."
       },
       {
         "label": "C",
-        "text": "Incubate new businesses and models."
+        "text": "deductive reasoning."
       },
       {
         "label": "D",
-        "text": "Invite others in."
+        "text": "decision making."
       }
     ],
     "correctAnswer": [
-      "A",
-      "C",
       "D"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q6_56f70d",
+    "week": 12
   },
   {
-    "id": "w9_q7",
-    "week": 9,
     "questionNumber": 7,
-    "questionText": "Marketing of innovation through a new perspective entails altering how consumers view a brand or product. Which of the following is an example of the same?",
+    "questionText": "The tendency to seek out information that supports our current beliefs is called:",
     "options": [
       {
         "label": "A",
-        "text": "Dove challenged traditional beauty standards by promoting real women with diverse body shapes and skin types, encouraging self-acceptance and self- esteem."
+        "text": "believability effect."
       },
       {
         "label": "B",
-        "text": "Spotify disrupted the music industry by offering a vast library of songs that users can stream for free or with premium subscriptions, making music more accessible and convenient."
+        "text": "content effect."
       },
       {
         "label": "C",
-        "text": "Samsung introduced foldable smartphones, which offer a new form factor by allowing users to unfold the phone into a larger tablet-like screen."
+        "text": "confirmation bias."
       },
       {
         "label": "D",
-        "text": "Niramai developed Thermalytix, an innovative breast cancer screening solution that uses thermography and artificial intelligence to detect breast cancer at an early stage."
+        "text": "syllogistic reasoning."
       }
     ],
     "correctAnswer": [
-      "A"
+      "C"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q7_196441",
+    "week": 12
   },
   {
-    "id": "w9_q8",
-    "week": 9,
     "questionNumber": 8,
-    "questionText": "Who invented the shopping cart in the 1930s to make shopping more convenient for customers and increase grocery store sales?",
+    "questionText": "Which of the following is NOT one of the five phases of decision making, according to Galotti?",
     "options": [
       {
         "label": "A",
-        "text": "Sam Walton"
+        "text": "goal setting"
       },
       {
         "label": "B",
-        "text": "Clarence Saunders"
+        "text": "information gathering"
       },
       {
         "label": "C",
-        "text": "James Cash Penney"
+        "text": "planning"
       },
       {
         "label": "D",
-        "text": "Sylvan Goldman"
+        "text": "random choice"
       }
     ],
     "correctAnswer": [
       "D"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q8_a7e8a2",
+    "week": 12
   },
   {
-    "id": "w9_q9",
-    "week": 9,
     "questionNumber": 9,
-    "questionText": "According to research by Abbie Griffin and colleagues, which of the following themes was identified as requiring special attention to strengthen the intersection between marketing and innovation?",
+    "questionText": "According to psychologists, human decision making often falls short of optimality because:",
     "options": [
       {
         "label": "A",
-        "text": "Improving customer needs understanding and customer involvement in developing new products."
+        "text": "there is not enough information available to make a rational decision."
       },
       {
         "label": "B",
-        "text": "Eliminating the role of marketing in innovation processes."
+        "text": "one cannot be rational under conditions of uncertainty."
       },
       {
         "label": "C",
-        "text": "Disseminating and implementing academic research within firms"
+        "text": "the information available overwhelms the cognitive processes."
       },
       {
         "label": "D",
-        "text": "Innovating beyond the laboratory."
+        "text": "rationality assumes a higher degree of intelligence than most people have."
       }
     ],
     "correctAnswer": [
-      "B"
+      "C"
     ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q9_e41340",
+    "week": 12
   },
   {
-    "id": "w9_q10",
-    "week": 9,
     "questionNumber": 10,
-    "questionText": "Which early e-reader device, despite being technologically advanced, struggled in the market partly because it lacked a well-developed ecosystem of publishing partners and content support?",
+    "questionText": "The phase of decision making that involves finding a way to organize information is called:",
     "options": [
       {
         "label": "A",
-        "text": "Amazon Kindle"
+        "text": "goal setting."
       },
       {
         "label": "B",
-        "text": "Sony Reader"
+        "text": "planning."
       },
       {
         "label": "C",
-        "text": "Apple iPad"
+        "text": "structuring the decision."
       },
       {
         "label": "D",
-        "text": "Barnes & Noble Nook"
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Week 9.pdf",
-    "sourcePage": 3,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q1",
-    "week": 10,
-    "questionNumber": 1,
-    "questionText": "What characteristic is emphasized as essential for an effective innovation?",
-    "options": [
-      {
-        "label": "A",
-        "text": "It should combine several complex functions to maximize appeal"
-      },
-      {
-        "label": "B",
-        "text": "It must be technologically advanced, regardless of user understanding"
-      },
-      {
-        "label": "C",
-        "text": "It should be simple and focused on doing one thing well"
-      },
-      {
-        "label": "D",
-        "text": "It should target as many user segments as possible"
+        "text": "evaluating."
       }
     ],
     "correctAnswer": [
       "C"
     ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q2",
-    "week": 10,
-    "questionNumber": 2,
-    "questionText": "Which product range was part of Pampers' shift toward developmental segmentation in its long-term strategy?",
-    "options": [
-      {
-        "label": "A",
-        "text": "DryMax SuperFit, designed for overnight use"
-      },
-      {
-        "label": "B",
-        "text": "Swaddlers, Cruisers, and Easy-Ups"
-      },
-      {
-        "label": "C",
-        "text": "UltraFlex Mobility, aimed at toddlers aged 2\u20135"
-      },
-      {
-        "label": "D",
-        "text": "Infant Comfort Series, targeting sensitive skin"
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q3",
-    "week": 10,
-    "questionNumber": 3,
-    "questionText": "Dr. Reddy\u2019s cost-efficient production methods primarily support which strategic advantage?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Reducing dependence on international regulatory approvals"
-      },
-      {
-        "label": "B",
-        "text": "Limiting the need for technological collaborations"
-      },
-      {
-        "label": "C",
-        "text": "Avoiding investments in drug delivery innovations"
-      },
-      {
-        "label": "D",
-        "text": "Delivering high-quality pharmaceuticals at competitive prices"
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q4",
-    "week": 10,
-    "questionNumber": 4,
-    "questionText": "Which of the following best reflects Dr. Reddy\u2019s use of partnerships in its innovation strategy?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Collaborations that focus exclusively on marketing and distribution within India"
-      },
-      {
-        "label": "B",
-        "text": "Partnerships intended mainly to outsource production to reduce costs"
-      },
-      {
-        "label": "C",
-        "text": "Alliances with global pharmaceutical companies to access advanced technologies and expand the product portfolio"
-      },
-      {
-        "label": "D",
-        "text": "Joint ventures focused solely on generic drug price negotiations"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q5",
-    "week": 10,
-    "questionNumber": 5,
-    "questionText": "Which of the following best reflects the primary starting point for crafting an effective innovation strategy?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Identifying emerging technologies and adopting them early"
-      },
-      {
-        "label": "B",
-        "text": "Benchmarking the innovation practices of industry leaders"
-      },
-      {
-        "label": "C",
-        "text": "Building financial forecasts for innovation investments"
-      },
-      {
-        "label": "D",
-        "text": "Clearly articulating objectives that support sustainable competitive advantage"
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q6",
-    "week": 10,
-    "questionNumber": 6,
-    "questionText": "Which of the following are NOT a source of innovation found within a company?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Expected occurrences"
-      },
-      {
-        "label": "B",
-        "text": "Incongruities"
-      },
-      {
-        "label": "C",
-        "text": "Process needs"
-      },
-      {
-        "label": "D",
-        "text": "Industry and Market Changes"
-      }
-    ],
-    "correctAnswer": [
-      "A"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q7",
-    "week": 10,
-    "questionNumber": 7,
-    "questionText": "Vic Mills\u2019 observation in the 1950s that led to the creation of Pampers primarily highlighted which critical gap in existing baby care solutions?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Lack of comfortable diaper materials"
-      },
-      {
-        "label": "B",
-        "text": "Inefficiency of traditional cloth diapers"
-      },
-      {
-        "label": "C",
-        "text": "Poor pricing strategies in the baby care market"
-      },
-      {
-        "label": "D",
-        "text": "Limited varieties available."
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q8",
-    "week": 10,
-    "questionNumber": 8,
-    "questionText": "Why is relying solely on intellectual property typically insufficient for companies to capture value from innovation?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Because patents expire faster than they used to"
-      },
-      {
-        "label": "B",
-        "text": "Because customers prefer open-source alternatives"
-      },
-      {
-        "label": "C",
-        "text": "Because imitators often enter the market quickly, intensifying price competition"
-      },
-      {
-        "label": "D",
-        "text": "Because IP laws prevent cross-industry diffusion of technologies"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q9",
-    "week": 10,
-    "questionNumber": 9,
-    "questionText": "What major technological advancement in the 1940s significantly accelerated the development of synthetic diamonds?",
-    "options": [
-      {
-        "label": "A",
-        "text": "The invention of laser-cutting machines"
-      },
-      {
-        "label": "B",
-        "text": "Advancements in low-temperature crystallization techniques"
-      },
-      {
-        "label": "C",
-        "text": "Percy Williams Bridgman's high-pressure apparatus enabling greater material compression"
-      },
-      {
-        "label": "D",
-        "text": "Development of AI-driven gemstone imaging systems"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w10_q10",
-    "week": 10,
-    "questionNumber": 10,
-    "questionText": "According to the Innovation Landscape Map, which type of innovation requires a new business model but leverages existing technical competences?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Routine Innovation"
-      },
-      {
-        "label": "B",
-        "text": "Radical Innovation"
-      },
-      {
-        "label": "C",
-        "text": "Disruptive Innovation"
-      },
-      {
-        "label": "D",
-        "text": "Architectural Innovation"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 10 Assignment 10 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q1",
-    "week": 11,
-    "questionNumber": 1,
-    "questionText": "Which of the following reflect how consumers apply the endowment effect when assessing innovations?",
-    "options": [
-      {
-        "label": "A",
-        "text": "They view benefits of current products as part of their psychological ownership"
-      },
-      {
-        "label": "B",
-        "text": "They compare gains and losses relative to their existing products"
-      },
-      {
-        "label": "C",
-        "text": "They perceive switching to new products as involving significant losses"
-      },
-      {
-        "label": "D",
-        "text": "They evaluate innovations objectively, independent of prior product use"
-      }
-    ],
-    "correctAnswer": [
-      "B",
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q2",
-    "week": 11,
-    "questionNumber": 2,
-    "questionText": "Which statement best captures the role of innovation resistance in the adoption process?",
-    "options": [
-      {
-        "label": "A",
-        "text": "All adopter groups experience equal resistance to innovations"
-      },
-      {
-        "label": "B",
-        "text": "Resistance determines whether an innovation is eventually rejected entirely"
-      },
-      {
-        "label": "C",
-        "text": "Differences in resistance among adopter categories affect the timing of adoption"
-      },
-      {
-        "label": "D",
-        "text": "Only laggards display resistance, while all other groups show immediate acceptance"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q3",
-    "week": 11,
-    "questionNumber": 3,
-    "questionText": "Which of the following best represents the central responsibility of entrepreneurial leaders during the Explore stage of the innovation lifecycle?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Scaling the business using established growth options"
-      },
-      {
-        "label": "B",
-        "text": "Achieving traction with early adopters and early majority customers"
-      },
-      {
-        "label": "C",
-        "text": "Clarifying assumptions, identifying uncertainties, and selecting an opportunity"
-      },
-      {
-        "label": "D",
-        "text": "Designing MVP-based experiments to test market entry"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q4",
-    "week": 11,
-    "questionNumber": 4,
-    "questionText": "Which of the following are Key Activities in the Experiment stage? (Select ALL that apply.)",
-    "options": [
-      {
-        "label": "A",
-        "text": "Develop market entry solutions using MVP"
-      },
-      {
-        "label": "B",
-        "text": "Design and launch early experiments"
-      },
-      {
-        "label": "C",
-        "text": "Analyse personal motivations and build the founding team"
-      },
-      {
-        "label": "D",
-        "text": "Refine the business model and manage risk"
-      }
-    ],
-    "correctAnswer": [
-      "B",
-      "D"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q5",
-    "week": 11,
-    "questionNumber": 5,
-    "questionText": "Which of the following best explains the key risk of using an existing brand name for an innovative product?",
-    "options": [
-      {
-        "label": "A",
-        "text": "It guarantees lower advertising expenses, leading to weaker market presence"
-      },
-      {
-        "label": "B",
-        "text": "It increases the likelihood that competitors will imitate the product"
-      },
-      {
-        "label": "C",
-        "text": "A failed extension can confuse consumers and damage the parent brand"
-      },
-      {
-        "label": "D",
-        "text": "It eliminates the possibility of launching a sub-brand in the future"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q6",
-    "week": 11,
-    "questionNumber": 6,
-    "questionText": "For companies with limited advertising resources, which approach is generally recommended?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Launching new brands to appear more innovative and visible."
-      },
-      {
-        "label": "B",
-        "text": "Expanding product categories broadly under one brand."
-      },
-      {
-        "label": "C",
-        "text": "Avoiding the process of creating a brand-new name"
-      },
-      {
-        "label": "D",
-        "text": "Prioritizing sub-branding to replace direct extensions"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q7",
-    "week": 11,
-    "questionNumber": 7,
-    "questionText": "Which strategic move most contributed to Spotify\u2019s ability to differentiate itself during its early expansion phase?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Launching exclusively in the U.S. market before Europe"
-      },
-      {
-        "label": "B",
-        "text": "Offering a premium-only subscription model with no free tier"
-      },
-      {
-        "label": "C",
-        "text": "Securing licensing deals with major record labels to build a comprehensive catalogue"
-      },
-      {
-        "label": "D",
-        "text": "Relying solely on user-generated music uploads"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q8",
-    "week": 11,
-    "questionNumber": 8,
-    "questionText": "Which of the following best explains why Microsoft's traditional \u201cseat license\u201d model created the \u201cthank you and see you in three years\u201d sales culture?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Salespeople had limited access to enterprise clients after initial onboarding"
-      },
-      {
-        "label": "B",
-        "text": "Contracts were short-term, requiring constant renewals"
-      },
-      {
-        "label": "C",
-        "text": "Sales commissions were tied to closing contracts rather than continuous customer engagement"
-      },
-      {
-        "label": "D",
-        "text": "Customers preferred yearly negotiations over long-term contracts"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q9",
-    "week": 11,
-    "questionNumber": 9,
-    "questionText": "Which of the following best defines the \"Innovation Lifecycle\"?",
-    "options": [
-      {
-        "label": "A",
-        "text": "A linear process where innovation moves directly from idea generation to market success."
-      },
-      {
-        "label": "B",
-        "text": "A structured approach where all innovations must reach the maturity phase before decline."
-      },
-      {
-        "label": "C",
-        "text": "A system where innovations must always disrupt an existing market to be successful."
-      },
-      {
-        "label": "D",
-        "text": "A cycle where companies explore, experiment, emerge, exploit, and transform over time."
-      }
-    ],
-    "correctAnswer": [
-      "D"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w11_q10",
-    "week": 11,
-    "questionNumber": 10,
-    "questionText": "Which of the following is NOT one of the three branding strategies for new products?",
-    "options": [
-      {
-        "label": "A",
-        "text": "New brand"
-      },
-      {
-        "label": "B",
-        "text": "Rebranded competitor"
-      },
-      {
-        "label": "C",
-        "text": "Direct extension"
-      },
-      {
-        "label": "D",
-        "text": "Sub-brand"
-      },
-      {
-        "label": "E",
-        "text": "Umbrella brand"
-      }
-    ],
-    "correctAnswer": [
-      "B",
-      "E"
-    ],
-    "sourcePdf": "Innovation Week 11 Assignment 11 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q1",
-    "week": 12,
-    "questionNumber": 1,
-    "questionText": "Which factor most directly contributed to the Segway PT being perceived as a luxury rather than a practical transportation device?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Its use of advanced balancing technology"
-      },
-      {
-        "label": "B",
-        "text": "Its marketing emphasis on environmental sustainability"
-      },
-      {
-        "label": "C",
-        "text": "Its high price, which made it inaccessible to a broad consumer base"
-      },
-      {
-        "label": "D",
-        "text": "Its adoption by government agencies"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q2",
-    "week": 12,
-    "questionNumber": 2,
-    "questionText": "A company with strong intellectual-property assets, limited desire to invest in manufacturing, and entry into a market where extensive infrastructure is needed should choose which innovation approach?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Integrator"
-      },
-      {
-        "label": "B",
-        "text": "Orchestrator"
-      },
-      {
-        "label": "C",
-        "text": "Licensor"
-      },
-      {
-        "label": "D",
-        "text": "Hybrid innovation scaling"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q3",
-    "week": 12,
-    "questionNumber": 3,
-    "questionText": "According to Peter Drucker, innovation primarily aims to:",
-    "options": [
-      {
-        "label": "A",
-        "text": "Maintain stability within an enterprise while minimizing change"
-      },
-      {
-        "label": "B",
-        "text": "Introduce experimentation without direction"
-      },
-      {
-        "label": "C",
-        "text": "Create intentional change that enhances an enterprise\u2019s economic or social potential"
-      },
-      {
-        "label": "D",
-        "text": "Replace existing business functions with automated systems"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q4",
-    "week": 12,
-    "questionNumber": 4,
-    "questionText": "What was a significant insight from Pampers\u2019 late-1990s research regarding its competition with Huggies?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Pampers needed to focus on reducing manufacturing cost to compete"
-      },
-      {
-        "label": "B",
-        "text": "Improving core functionality alone would not significantly increase market share"
-      },
-      {
-        "label": "C",
-        "text": "Consumers preferred Huggies due to lower prices."
-      },
-      {
-        "label": "D",
-        "text": "Pampers lacked adequate global distribution capabilities"
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q5",
-    "week": 12,
-    "questionNumber": 5,
-    "questionText": "Which strategic choice by Dr. Reddy\u2019s Laboratories most strongly demonstrates its long-term commitment to innovation leadership?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Prioritizing marketing expenditure over research to strengthen brand recall"
-      },
-      {
-        "label": "B",
-        "text": "Reducing R&D allocation to focus on low-cost manufacturing"
-      },
-      {
-        "label": "C",
-        "text": "Sustained investment in basic research and R&D despite opposing industry trends"
-      },
-      {
-        "label": "D",
-        "text": "Limiting product development to only existing markets"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 1,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q6",
-    "week": 12,
-    "questionNumber": 6,
-    "questionText": "Toyota\u2019s approach with the Prius illustrates which strategy for minimizing resistance?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Making economical products."
-      },
-      {
-        "label": "B",
-        "text": "Make behaviourally compatible products"
-      },
-      {
-        "label": "C",
-        "text": "Replace incumbent alternatives completely"
-      },
-      {
-        "label": "D",
-        "text": "Target only environmentally conscious consumers"
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q7",
-    "week": 12,
-    "questionNumber": 7,
-    "questionText": "What psychological bias leads consumers to Favor products they already own over new innovations?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Confirmation bias"
-      },
-      {
-        "label": "B",
-        "text": "Endowment effect"
-      },
-      {
-        "label": "C",
-        "text": "Availability heuristic"
-      },
-      {
-        "label": "D",
-        "text": "Sunk cost fallacy"
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q8",
-    "week": 12,
-    "questionNumber": 8,
-    "questionText": "Which of the following initiatives demonstrate Taco Bell\u2019s repositioning effort toward a more contemporary and immersive customer experience? (Select all that apply.)",
-    "options": [
-      {
-        "label": "A",
-        "text": "Opening upscale Taco Bell Cantina locations with urban design elements"
-      },
-      {
-        "label": "B",
-        "text": "Introducing a breakfast menu to extend operating hours"
-      },
-      {
-        "label": "C",
-        "text": "Subtly refreshing branding while retaining the iconic bell logo"
-      },
-      {
-        "label": "D",
-        "text": "Maintaining the long-running \u201cYo Quiero Taco Bell\u201d mascot campaign"
-      }
-    ],
-    "correctAnswer": [
-      "A",
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q9",
-    "week": 12,
-    "questionNumber": 9,
-    "questionText": "Which component of the four-part framework for breaking into networked markets focuses on aligning with entities that hold influence over adoption?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Offer coordinated switching incentives"
-      },
-      {
-        "label": "B",
-        "text": "Complement the power players"
-      },
-      {
-        "label": "C",
-        "text": "Preserve flexibility"
-      },
-      {
-        "label": "D",
-        "text": "Reason back from a target endgame"
-      }
-    ],
-    "correctAnswer": [
-      "B"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
-  },
-  {
-    "id": "w12_q10",
-    "week": 12,
-    "questionNumber": 10,
-    "questionText": "According to David Robertson's \"Power of Little Ideas,\" what characterizes the Third Way approach to innovation?",
-    "options": [
-      {
-        "label": "A",
-        "text": "Introducing radical breakthroughs that immediately replace existing products"
-      },
-      {
-        "label": "B",
-        "text": "Competing in low-end markets using a cost-driven business model"
-      },
-      {
-        "label": "C",
-        "text": "Developing coordinated complementary innovations surrounding a central product"
-      },
-      {
-        "label": "D",
-        "text": "Creating entirely new markets by targeting previously ignored customer groups"
-      }
-    ],
-    "correctAnswer": [
-      "C"
-    ],
-    "sourcePdf": "Innovation Week 12 Assignment 12 Solutions.pdf",
-    "sourcePage": 2,
-    "confidence": "high",
-    "needsReview": false
+    "explanation": "",
+    "needsReview": false,
+    "id": "w12_q10_071c1d",
+    "week": 12
   }
 ]
